@@ -7,37 +7,3 @@ Doc.add_paragraph("Python是一种面向对象的编程语言~~~")  # 添加段�
 print("sss")
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-print("test")
-print("test")
-print("test")
-print("test")
-print("test")
-print("test")
-print("test")
-print("test")
-print("test")
-print("test")
-print("test")
-print("test")
-print("tdfgsdft")
-print("tdfgsdft")
-print("tdfgsdft")
-print("tdfgsdft")
-print("tdfgsdft")
-print("tdfgsdft")
-print("test")
-print("test")
