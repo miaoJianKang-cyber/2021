@@ -1,0 +1,268 @@
+<html style="font-size: 28px;" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no" name="viewport"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <meta content="yes" name="apple-mobile-web-app-capable"/>
+  <meta content="black" name="apple-mobile-web-app-status-bar-style"/>
+  <meta content="no-cache" http-equiv="pragma"/>
+  <meta content="no-transform" http-equiv="Cache-Control"/>
+  <meta content="no-siteapp" http-equiv="Cache-Control"/>
+  <meta content="mobile" name="applicable-device"/>
+  <title>
+   Contact us - Zhengzhou Shibo Mechanical Engineering co.,ltd
+  </title>
+  <link href="/css_m/mcss.css" rel="stylesheet" type="text/css"/>
+  <link href="/css_m/swiper.min.css" rel="stylesheet" type="text/css"/>
+  <link href="https://www.shibochina.com/contact-us/" rel="canonical"/>
+  <script async="" src="https://www.googleadservices.com/pagead/conversion_async.js" type="text/javascript">
+  </script>
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-848527810">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'AW-848527810');
+  </script>
+  <script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/848527810/?random=1613785606234&amp;cv=9&amp;fst=1613785606234&amp;num=1&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=1080&amp;u_w=1920&amp;u_ah=1040&amp;u_aw=1920&amp;u_cd=24&amp;u_his=3&amp;u_tz=480&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2oa2a1&amp;sendb=1&amp;ig=1&amp;data=event%3Dgtag.config&amp;frm=0&amp;url=https%3A%2F%2Fm.shibochina.com%2Fcontact-us%2F&amp;tiba=Contact%20us%20-%20Zhengzhou%20Shibo%20Mechanical%20Engineering%20co.%2Cltd&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4">
+  </script>
+  <script charset="utf-8" src="https://dkt.zoosnet.net/js/JS_Float.aspx?jid=d&amp;id=74529870&amp;sid=fda410d1d2934194b17c96d9bcc3440f&amp;cid=fda410d1d2934194b17c96d9bcc3440f&amp;lng=en&amp;p=https%3A//m.shibochina.com/contact-us/&amp;r=&amp;e=&amp;ADAM=ABAF&amp;ADAN=ABAG&amp;AEAO=ACAH&amp;MCHA=229F6E3F4F5B045C8E7309050B020c0E0B0B0E030009080C0707060E08000403&amp;s=1920*1080&amp;d=1613785606455" type="text/javascript">
+  </script>
+ </head>
+ <body>
+  <header class="header wrap clearfix">
+   <a class="logo" href="/">
+    <img alt="SBM" src="/images_m/logo.jpg"/>
+   </a>
+   <div class="btn-nav">
+    <img alt="" src="/images_m/nav.jpg"/>
+   </div>
+   <nav class="nav">
+    <ul>
+     <li>
+      <a href="/">
+       Home
+      </a>
+     </li>
+     <li class="on">
+      <a href="/products/">
+       Products
+      </a>
+     </li>
+     <li>
+      <a href="/news/">
+       News
+      </a>
+     </li>
+     <li>
+      <a href="/solutions/">
+       Solutions
+      </a>
+     </li>
+     <li>
+      <a href="/material-processing/">
+       Materials
+      </a>
+     </li>
+     <li>
+      <a href="/cases/">
+       Cases
+      </a>
+     </li>
+     <li>
+      <a href="/about-us/">
+       About Us
+      </a>
+     </li>
+     <li>
+      <a href="/contact-us/">
+       Contact Us
+      </a>
+     </li>
+    </ul>
+   </nav>
+  </header>
+  <div class="about_ban">
+   <img src="/images_m/contpic01.jpg"/>
+   <div class="wrap">
+    <dl>
+     <dt>
+      Contact Us
+     </dt>
+    </dl>
+   </div>
+  </div>
+  <div class="contact_m1">
+   <p>
+    Thanks for your interests in our products,you can contact us by one of the following ways to get price and detail information.we will reply to you within 24 hours as soon as possible.
+   </p>
+   <ul>
+    <li>
+     <img alt="icon" src="/images_m/contact_02.png"/>
+     <div class="cont-info">
+      <i>
+       Email
+      </i>
+      <a href="mailto:sales@shibochina.com">
+       sales@shibochina.com
+      </a>
+     </div>
+    </li>
+    <li>
+     <img alt="icon" src="/images_m/contact_04.png"/>
+     <div class="cont-info">
+      <i>
+       Contact us Quickly
+      </i>
+      <span onclick="openZoosUrl();">
+       Ask Best Quote
+      </span>
+     </div>
+    </li>
+    <li>
+     <img alt="icon" src="/images_m/contact_03.png"/>
+     <div class="cont-info">
+      <i>
+       Telephone
+      </i>
+      0086-371-55912969
+     </div>
+    </li>
+    <li>
+     <img alt="icon" src="/images_m/contact_01.png"/>
+     <div class="cont-info">
+      <i>
+       Our Address
+      </i>
+      Zhengzhou, Henan, China
+     </div>
+    </li>
+   </ul>
+  </div>
+  <script src="/js/submit.js">
+  </script>
+  <a name="ly">
+  </a>
+  <div class="message">
+   <div class="message_tit">
+    <strong>
+     Quick Way to Get Price
+    </strong>
+    <p>
+     Complete the form, the quotation and price list will be sent to you asap.
+    </p>
+    <form action="/post/post.aspx" id="formcc" method="post" name="formcc" onsubmit="return dosub();">
+     <ul>
+      <li class="pro_proname" style="display:none;">
+       <input id="txtproname" name="txtproname" placeholder="Name" type="text" value=""/>
+      </li>
+      <li class="pro_name">
+       <input id="txtname" name="txtname" placeholder="Name" type="text"/>
+      </li>
+      <li class="form-xing">
+       <input id="txtemail" name="txtemail" placeholder="Email" type="text"/>
+      </li>
+      <li>
+       <input id="txttel" name="txttel" placeholder="Phone or WhatsApp" type="text"/>
+      </li>
+      <li class="text-tar">
+       <textarea id="txtcontent" name="txtcontent" placeholder="Such as capacity, material, input and output size"></textarea>
+      </li>
+     </ul>
+     <button class="button" id="submit" name="submit">
+      Submit
+     </button>
+     <script type="text/javascript">
+      //cc from leave wudong
+                function dosub() {
+                    var txt0 = document.getElementById("txtemail");
+                    if (txt0.value == "" | txt0.value == txt0.defaultValue) {
+                        txt0.style.backgroundColor = "#e3e3e3";
+                        txt0.focus();
+                        return false;
+                    }
+                    ////var txt1 = document.getElementById("txttel");
+                    ////if (txt1.value == "" | txt1.value == txt1.defaultValue) {
+                    ////    txt1.style.backgroundColor = "#e3e3e3";
+                    ////    txt1.focus();
+                    ////    return false;
+                    ////}
+                    ////var txt2 = document.getElementById("txtcontent");
+                    ////if (txt2.value == "" | txt2.value == txt2.defaultValue) {
+                    ////    txt2.style.backgroundColor = "#e3e3e3";
+                    ////    txt2.focus();
+                    ////    return false;
+                    ////}
+                    submit_cc("formcc");//禁用按钮 //加参数
+                }
+     </script>
+    </form>
+   </div>
+  </div>
+  <div class="foot_h">
+  </div>
+  <div class="fix-show">
+   <ul class="clearfix">
+    <li>
+     <span onclick="openZoosUrl();">
+      <img alt="Chat Online" src="/images_m/fix-line.png"/>
+      Chat Online
+     </span>
+    </li>
+    <li>
+     <a href="/contact-us/#ly">
+      <img alt="Get Quote" src="/images_m/fix-msg.png"/>
+      Get Quote
+     </a>
+    </li>
+   </ul>
+  </div>
+  <div class="fix-fr">
+   <div class="fix-ask">
+    <a href="https://api.whatsapp.com/send?phone=8615538375856" rel="nofollow" target="_blank">
+     <img alt="" src="/images_m/home_data_whatsapp.gif"/>
+    </a>
+   </div>
+   <div class="return-top">
+    <img alt="return top" src="/images_m/fix-icon02.png"/>
+   </div>
+  </div>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js">
+  </script>
+  <script src="/js_m/public.js">
+  </script>
+  <script language="javascript" src="https://dkt.zoosnet.net/JS/LsJS.aspx?siteid=DKT74529870&amp;float=1&amp;lng=en">
+  </script>
+  <link href="https://dkt.zoosnet.net/js/JS5.css" rel="stylesheet" type="text/css"/>
+  <div id="LRdiv0" style="display: none;">
+  </div>
+  <div id="LRdiv1" style="display: none;">
+  </div>
+  <div id="LRdiv2" style="display: none;">
+  </div>
+  <div id="LRdiv3" style="display: none;">
+  </div>
+  <span style="display:none">
+   <script src="https://s19.cnzz.com/z_stat.php?id=1273468140&amp;web_id=1273468140" type="text/javascript">
+   </script>
+   <script charset="utf-8" src="https://c.cnzz.com/core.php?web_id=1273468140&amp;t=z" type="text/javascript">
+   </script>
+   <a href="https://www.cnzz.com/stat/website.php?web_id=1273468140" target="_blank" title="站长统计">
+    站长统计
+   </a>
+  </span>
+  <script>
+   $("input,textarea").focus(function () {
+        //alert('aaa');
+        $(".fix-show").css("display", "none");
+    });
+    //失去焦点
+    $("input,textarea").blur(function () {
+        //alert('bbb');
+        $(".fix-show").css("display", "block");
+    });
+    $('#txtname').click(function () { $('html,body').animate({ scrollTop: $('#txtname').offset().top }, 800); });
+  </script>
+ </body>
+</html>

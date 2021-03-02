@@ -1,0 +1,521 @@
+<html class="wf-proximanova-n9-active wf-proximanova-n8-active wf-omnespro-n5-active wf-omnespro-n7-active wf-active" lang="fi">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <meta content="max-image-preview:standard" name="robots"/>
+  <link crossorigin="use-credentials" href="/manifest.json" rel="manifest"/>
+  <link href="https://static.valio.fi/ClientApp/build/icon/valio/favicon.ico" rel="shortcut icon"/>
+  <link href="https://static.valio.fi/ClientApp/build/icon/valio/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+  <link href="https://static.valio.fi/ClientApp/build/icon/valio/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+  <link href="https://static.valio.fi/ClientApp/build/icon/valio/site.webmanifest" rel="manifest"/>
+  <link color="#002f6d" href="https://static.valio.fi/ClientApp/build/icon/valio/safari-pinned-tab.svg" rel="mask-icon"/>
+  <meta content="#ffffff" name="msapplication-TileColor"/>
+  <meta content="#ffffff" name="theme-color"/>
+  <meta content="yes" name="apple-mobile-web-app-capable"/>
+  <!-- iPhone Xs Max (1242px x 2688px) -->
+  <link href="https://static.valio.fi/Content/images/pwa/apple-launch-1242x2688.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image"/>
+  <!-- iPhone Xr (828px x 1792px) -->
+  <link href="https://static.valio.fi/Content/images/pwa/apple-launch-828x1792.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image"/>
+  <!-- iPhone X, Xs (1125px x 2436px) -->
+  <link href="https://static.valio.fi/Content/images/pwa/apple-launch-1125x2436.png" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image"/>
+  <!-- iPhone 8 Plus, 7 Plus, 6s Plus, 6 Plus (1242px x 2208px) -->
+  <link href="https://static.valio.fi/Content/images/pwa/apple-launch-1242x2208.png" media="(device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image"/>
+  <!-- iPhone 8, 7, 6s, 6 (750px x 1334px) -->
+  <link href="https://static.valio.fi/Content/images/pwa/apple-launch-750x1334.png" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image"/>
+  <!-- iPad Pro 12.9" (2048px x 2732px) -->
+  <link href="https://static.valio.fi/Content/images/pwa/apple-launch-2048x2732.png" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image"/>
+  <!-- iPad Pro 11” (1668px x 2388px) -->
+  <link href="https://static.valio.fi/Content/images/pwa/apple-launch-1668x2388.png" media="(device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image"/>
+  <!-- iPad Pro 10.5" (1668px x 2224px) -->
+  <link href="https://static.valio.fi/Content/images/pwa/apple-launch-1668x2224.png" media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image"/>
+  <!-- iPad Mini, Air (1536px x 2048px) -->
+  <link href="https://static.valio.fi/Content/images/pwa/apple-launch-1536x2048.png" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image"/>
+  <link href="https://static.valio.fi/Content/images/pwa/icon-256x256.png" rel="apple-touch-icon"/>
+  <link href="https://static.valio.fi/Content/images/pwa/icon-512x512.png" rel="apple-touch-icon" sizes="512x512"/>
+  <link href="https://static.valio.fi/Content/images/pwa/icon-256x256.png" rel="apple-touch-icon" sizes="256x256"/>
+  <link href="https://static.valio.fi/Content/images/pwa/icon-64x64.png" rel="apple-touch-icon" sizes="64x64"/>
+  <link href="https://in.hotjar.com" rel="preconnect"/>
+  <link href="https://vars.hotjar.com" rel="preconnect"/>
+  <link href="https://script.hotjar.com" rel="preconnect"/>
+  <link href="https://static.hotjar.com" rel="preconnect"/>
+  <link href="https://connect.facebook.net" rel="preconnect"/>
+  <link href="https://www.google-analytics.com" rel="preconnect"/>
+  <link href="https://www.googletagmanager.com" rel="preconnect"/>
+  <link href="https://cdn.raygun.io" rel="preconnect"/>
+  <title>
+   Valio | Valio
+  </title>
+  <script async="" src="//cdn.raygun.io/raygun4js/raygun.min.js">
+  </script>
+  <script async="" src="https://use.typekit.net/gzb6pke.js">
+  </script>
+  <script>
+   (function (d) {
+			var config = {
+				kitId: 'gzb6pke',
+				scriptTimeout: 3000,
+				async: true
+			},
+				h = d.documentElement, t = setTimeout(function () { h.className = h.className.replace(/\bwf-loading\b/g, "") + " wf-inactive"; }, config.scriptTimeout), tk = d.createElement("script"), f = false, s = d.getElementsByTagName("script")[0], a; h.className += " wf-loading"; tk.src = 'https://use.typekit.net/' + config.kitId + '.js'; tk.async = true; tk.onload = tk.onreadystatechange = function () { a = this.readyState; if (f || a && a != "complete" && a != "loaded") return; f = true; clearTimeout(t); try { Typekit.load(config) } catch (e) { } }; s.parentNode.insertBefore(tk, s)
+		})(document);
+  </script>
+  <script type="text/javascript">
+   var siteBaseUrl = 'https://www.valio.fi';
+		var instrumentationKey = 'ba616bfb-5199-4d43-bbfb-ebf424179eb9';
+		var reCaptchaSiteKey = '6LcS3WoUAAAAAPRMJpkdCPb3naBunwdgmMjn2SsK';
+		var assetPath = 'https://static.valio.fi/ClientApp/build/';
+		var serverRendered = false;
+  </script>
+  <script type="text/javascript">
+  </script>
+  <style type="text/css">
+   .tk-proxima-nova{font-family:"proxima-nova",sans-serif;}.tk-omnes-pro{font-family:"omnes-pro",sans-serif;}
+  </style>
+  <style type="text/css">
+   @font-face{font-family:tk-proxima-nova-n9;src:url(https://use.typekit.net/af/b683e3/00000000000000003b9b306c/27/l?primer=43d413ffc8df0e8f574740d317563521f1c0d533e813a5712cbb31dca0967775&fvd=n9&v=3) format("woff2"),url(https://use.typekit.net/af/b683e3/00000000000000003b9b306c/27/d?primer=43d413ffc8df0e8f574740d317563521f1c0d533e813a5712cbb31dca0967775&fvd=n9&v=3) format("woff"),url(https://use.typekit.net/af/b683e3/00000000000000003b9b306c/27/a?primer=43d413ffc8df0e8f574740d317563521f1c0d533e813a5712cbb31dca0967775&fvd=n9&v=3) format("opentype");font-weight:900;font-style:normal;font-display:auto;}@font-face{font-family:tk-proxima-nova-n8;src:url(https://use.typekit.net/af/d82519/00000000000000003b9b306a/27/l?primer=43d413ffc8df0e8f574740d317563521f1c0d533e813a5712cbb31dca0967775&fvd=n8&v=3) format("woff2"),url(https://use.typekit.net/af/d82519/00000000000000003b9b306a/27/d?primer=43d413ffc8df0e8f574740d317563521f1c0d533e813a5712cbb31dca0967775&fvd=n8&v=3) format("woff"),url(https://use.typekit.net/af/d82519/00000000000000003b9b306a/27/a?primer=43d413ffc8df0e8f574740d317563521f1c0d533e813a5712cbb31dca0967775&fvd=n8&v=3) format("opentype");font-weight:800;font-style:normal;font-display:auto;}@font-face{font-family:tk-omnes-pro-n5;src:url(https://use.typekit.net/af/6e84fe/00000000000000003b9b1e46/27/l?primer=43d413ffc8df0e8f574740d317563521f1c0d533e813a5712cbb31dca0967775&fvd=n5&v=3) format("woff2"),url(https://use.typekit.net/af/6e84fe/00000000000000003b9b1e46/27/d?primer=43d413ffc8df0e8f574740d317563521f1c0d533e813a5712cbb31dca0967775&fvd=n5&v=3) format("woff"),url(https://use.typekit.net/af/6e84fe/00000000000000003b9b1e46/27/a?primer=43d413ffc8df0e8f574740d317563521f1c0d533e813a5712cbb31dca0967775&fvd=n5&v=3) format("opentype");font-weight:500;font-style:normal;font-display:auto;}@font-face{font-family:tk-omnes-pro-n7;src:url(https://use.typekit.net/af/7dffb4/00000000000000003b9b1e4a/27/l?primer=43d413ffc8df0e8f574740d317563521f1c0d533e813a5712cbb31dca0967775&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/7dffb4/00000000000000003b9b1e4a/27/d?primer=43d413ffc8df0e8f574740d317563521f1c0d533e813a5712cbb31dca0967775&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/7dffb4/00000000000000003b9b1e4a/27/a?primer=43d413ffc8df0e8f574740d317563521f1c0d533e813a5712cbb31dca0967775&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;font-display:auto;}
+  </style>
+  <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=Intl.~locale.fi">
+  </script>
+  <script type="text/javascript">
+   !function(a,b,c,d,e,f,g,h){a.RaygunObject=e,a[e]=a[e]||function(){
+				(a[e].o=a[e].o||[]).push(arguments)},f=b.createElement(c),g=b.getElementsByTagName(c)[0],
+			f.async=1,f.src=d,g.parentNode.insertBefore(f,g),h=a.onerror,a.onerror=function(b,c,d,f,g){
+				h&&h(b,c,d,f,g),g||(g=new Error(b)),a[e].q=a[e].q||[],a[e].q.push({
+					e:g})}}(window,document,"script","//cdn.raygun.io/raygun4js/raygun.min.js","rg4js");
+  </script>
+  <style type="text/css">
+   @font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/b683e3/00000000000000003b9b306c/27/l?primer=43d413ffc8df0e8f574740d317563521f1c0d533e813a5712cbb31dca0967775&fvd=n9&v=3) format("woff2"),url(https://use.typekit.net/af/b683e3/00000000000000003b9b306c/27/d?primer=43d413ffc8df0e8f574740d317563521f1c0d533e813a5712cbb31dca0967775&fvd=n9&v=3) format("woff"),url(https://use.typekit.net/af/b683e3/00000000000000003b9b306c/27/a?primer=43d413ffc8df0e8f574740d317563521f1c0d533e813a5712cbb31dca0967775&fvd=n9&v=3) format("opentype");font-weight:900;font-style:normal;font-display:auto;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/d82519/00000000000000003b9b306a/27/l?primer=43d413ffc8df0e8f574740d317563521f1c0d533e813a5712cbb31dca0967775&fvd=n8&v=3) format("woff2"),url(https://use.typekit.net/af/d82519/00000000000000003b9b306a/27/d?primer=43d413ffc8df0e8f574740d317563521f1c0d533e813a5712cbb31dca0967775&fvd=n8&v=3) format("woff"),url(https://use.typekit.net/af/d82519/00000000000000003b9b306a/27/a?primer=43d413ffc8df0e8f574740d317563521f1c0d533e813a5712cbb31dca0967775&fvd=n8&v=3) format("opentype");font-weight:800;font-style:normal;font-display:auto;}@font-face{font-family:omnes-pro;src:url(https://use.typekit.net/af/6e84fe/00000000000000003b9b1e46/27/l?primer=43d413ffc8df0e8f574740d317563521f1c0d533e813a5712cbb31dca0967775&fvd=n5&v=3) format("woff2"),url(https://use.typekit.net/af/6e84fe/00000000000000003b9b1e46/27/d?primer=43d413ffc8df0e8f574740d317563521f1c0d533e813a5712cbb31dca0967775&fvd=n5&v=3) format("woff"),url(https://use.typekit.net/af/6e84fe/00000000000000003b9b1e46/27/a?primer=43d413ffc8df0e8f574740d317563521f1c0d533e813a5712cbb31dca0967775&fvd=n5&v=3) format("opentype");font-weight:500;font-style:normal;font-display:auto;}@font-face{font-family:omnes-pro;src:url(https://use.typekit.net/af/7dffb4/00000000000000003b9b1e4a/27/l?primer=43d413ffc8df0e8f574740d317563521f1c0d533e813a5712cbb31dca0967775&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/7dffb4/00000000000000003b9b1e4a/27/d?primer=43d413ffc8df0e8f574740d317563521f1c0d533e813a5712cbb31dca0967775&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/7dffb4/00000000000000003b9b1e4a/27/a?primer=43d413ffc8df0e8f574740d317563521f1c0d533e813a5712cbb31dca0967775&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;font-display:auto;}
+  </style>
+  <style data-styled="active" data-styled-version="5.2.0">
+  </style>
+  <script src="https://az416426.vo.msecnd.net/scripts/a/ai.0.js">
+  </script>
+  <script charset="utf-8" src="https://static.valio.fi/ClientApp/build/static/js/messages-default.8f1c9d37.chunk.js">
+  </script>
+  <script charset="utf-8" src="https://static.valio.fi/ClientApp/build/static/js/messages-en.d74df4c0.chunk.js">
+  </script>
+  <script charset="utf-8" src="https://static.valio.fi/ClientApp/build/static/js/navigation-com.4228a0ec.chunk.js">
+  </script>
+  <meta content="" data-react-helmet="true" name="description"/>
+ </head>
+ <body class="ga-valiofi-" data-react-helmet="class">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+  </noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <div id="root">
+   <div class="AppContainer-sc-1s74kw3 hsQzVo">
+    <header class="HeaderWrapper-sc-tsmhmk jGZeAL">
+     <div class="NavigationWrapper-sc-1oxmurn fGHAgV">
+      <div class="DesktopTitleAndNavWrapper-sc-1wbpmde mBxSO">
+       <span class="NavTitle-sc-1rd1yg3 hwjuiq">
+        Valio Group
+       </span>
+       <ul class="SiteSectionWrapper-sc-v9ual4 gvykDm">
+        <li class="SiteSectionListItem-sc-mgtadp hbGVaR">
+         <a class="SiteSectionLink-sc-o3mrm0 duupFK" href="https://www.valio.com/" title="Valio group">
+          Valio group
+         </a>
+        </li>
+        <li class="SiteSectionListItem-sc-mgtadp iFDVmO">
+         <a class="SiteSectionLink-sc-o3mrm0 hETple" href="https://www.valio.com//food-solutions-for-companies/" title="Food Solutions for companies">
+          Food Solutions for companies
+         </a>
+        </li>
+        <li class="SiteSectionListItem-sc-mgtadp iFDVmO">
+         <a class="SiteSectionLink-sc-o3mrm0 hETple" href="https://www.valio.com//countries/" title="Global">
+          Global
+          <svg height="26" viewbox="0 0 26 26" width="26" xmlns="http://www.w3.org/2000/svg">
+           <path d="M21.71 19.705a13.32 13.32 0 0 0 .222-2.83l1.585-.655a10.9 10.9 0 0 1-.354.989c-.376.907-.87 1.738-1.452 2.496zM7.84 22.714l1.59-.658a14.193 14.193 0 0 0 1.639 1.474c.174.132.349.254.523.372a11.055 11.055 0 0 1-2.801-.74 11.643 11.643 0 0 1-.95-.448zm-4.575-4.6l2.753-1.14A20.22 20.22 0 0 0 8.08 20.45l-2.217.919a10.895 10.895 0 0 1-2.6-3.253zm1.024-11.82a13.31 13.31 0 0 0-.221 2.829l-1.585.657c.103-.333.219-.664.354-.99.376-.906.87-1.737 1.452-2.495zm13.87-3.008l-1.59.658a14.02 14.02 0 0 0-1.638-1.474c-.181-.138-.363-.253-.544-.376.958.124 1.907.364 2.823.743.325.136.642.286.949.449zm4.576 4.599l-2.753 1.14a20.22 20.22 0 0 0-2.063-3.474l2.217-.92a10.895 10.895 0 0 1 2.599 3.254zm-1.99 2.989L23.5 9.733c.423 1.35.575 2.75.463 4.138l-2.21.915a20.335 20.335 0 0 0-1.007-3.912zm-4.908 6.362l-1.53-3.695 4.592-1.902c.477 1.342.78 2.678.925 3.946l-3.987 1.65zm2.23 5.384l-1.464-3.536 3.312-1.372c-.08 2.167-.714 3.943-1.848 4.908zm-3.312-2.77l1.467 3.54c-1.19.097-2.552-.396-3.943-1.453-.286-.217-.566-.46-.84-.713l3.316-1.374zm-2.296-5.543l1.53 3.695-3.994 1.654a17.803 17.803 0 0 1-2.13-3.447l4.594-1.902zm-6.283-3.892l3.987-1.651 1.53 3.695L7.1 14.36a17.861 17.861 0 0 1-.925-3.946zM7.933 3.38l1.465 3.535-3.313 1.373c.079-2.167.714-3.943 1.848-4.908zm3.312 2.77L9.782 2.618c.096-.008.189-.027.287-.027 1.118 0 2.374.5 3.652 1.47.286.219.566.46.84.715L11.246 6.15zm4.76.194a17.825 17.825 0 0 1 2.13 3.446l-4.594 1.903-1.531-3.695 3.995-1.654zM2.5 16.267a10.884 10.884 0 0 1-.463-4.138l2.209-.915a20.354 20.354 0 0 0 1.008 3.912L2.5 16.266zm22.51-8.242C22.268 1.403 14.65-1.753 8.025.99 1.403 3.732-1.753 11.352.99 17.975 3.06 22.975 7.913 26 13.017 26c1.654 0 3.337-.318 4.958-.99 6.622-2.742 9.778-10.362 7.035-16.985z" fill="#002f6d">
+           </path>
+          </svg>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="WidthWrapper-sc-1b4rojj jlgzQz">
+       <ul class="SiteSectionWrapper-sc-v9ual4 MobileSiteSectionWrapper-sc-1fcu7rz gvykDm lnOffz">
+        <li class="SiteSectionListItem-sc-mgtadp hbGVaR">
+         <a class="SiteSectionLink-sc-o3mrm0 duupFK" href="https://www.valio.com/" title="Valio group">
+          Valio group
+         </a>
+        </li>
+        <li class="SiteSectionListItem-sc-mgtadp iFDVmO">
+         <a class="SiteSectionLink-sc-o3mrm0 hETple" href="https://www.valio.com//food-solutions-for-companies/" title="Food Solutions for companies">
+          Food Solutions for companies
+         </a>
+        </li>
+       </ul>
+       <div class="NavigationContainer-sc-4ofnnb bxTrWR">
+        <div class="MenuTogglerWrapper-sc-ix9vu7 jOwbFI">
+         <svg height="32" viewbox="0 0 26 26" width="32" xmlns="http://www.w3.org/2000/svg">
+          <g fill="#fff">
+           <rect height="2" rx="1" width="24" x="1" y="6">
+           </rect>
+           <rect height="2" rx="1" width="24" x="1" y="12">
+           </rect>
+           <rect height="2" rx="1" width="24" x="1" y="18">
+           </rect>
+          </g>
+         </svg>
+        </div>
+        <div class="LogoWrapper-sc-1xh7btk cQVhaY">
+         <a class="LogoWrapper-sc-1cslqmg fbIUTy" href="/">
+          <img alt="Valio" src="https://static.valio.fi/ClientApp/build/static/media/valioLogo.e2c6eb2d.png" width="100%"/>
+         </a>
+        </div>
+        <div class="TitleAndNavWrapper-sc-17wk8bl eFmyYE">
+         <span class="Title-sc-nxr576 dVfdcF">
+          Valio Group
+         </span>
+         <nav class="Nav-sc-m5a5lc gPrVfe">
+          <ul class="MenuListWrapper-sc-gzmtc0 keNGNj">
+           <li class="MenuListItem-sc-beybua VpbxI">
+            <a class="MenuItemLink-sc-10eulw5 brlCuJ" href="/we-are-valio/">
+             We are Valio
+            </a>
+           </li>
+           <li class="MenuListItem-sc-beybua VpbxI">
+            <a class="MenuItemLink-sc-10eulw5 brlCuJ" href="/sustainability/">
+             Sustainability
+            </a>
+           </li>
+           <li class="MenuListItem-sc-beybua VpbxI">
+            <a class="MenuItemLink-sc-10eulw5 brlCuJ" href="/brands-and-products/">
+             Brands and products
+            </a>
+           </li>
+           <li class="MenuListItem-sc-beybua VpbxI">
+            <a class="MenuItemLink-sc-10eulw5 brlCuJ" href="/careers/">
+             Careers
+            </a>
+           </li>
+           <li class="MenuListItem-sc-beybua VpbxI menu-toggle">
+            <svg height="32" viewbox="0 0 26 26" width="32" xmlns="http://www.w3.org/2000/svg">
+             <g fill="#fff">
+              <rect height="2" rx="1" width="24" x="1" y="6">
+              </rect>
+              <rect height="2" rx="1" width="24" x="1" y="12">
+              </rect>
+              <rect height="2" rx="1" width="24" x="1" y="18">
+              </rect>
+             </g>
+            </svg>
+           </li>
+          </ul>
+          <ul class="MenuList-sc-1wi67m7 ContextualLinksList-sc-rnk3iw fXHdKh ivqfAw for-desktop">
+           <li class="MenuListItem-sc-10dg1kg ContextualLinkListItem-sc-a10rc0 jdDfQb eaNiCd">
+            <a class="ContextualLink-sc-u0c15f iyOCUS" href="https://www.valio.com//articles/">
+             <svg height="24" viewbox="0 0 26 26" width="24" xmlns="http://www.w3.org/2000/svg">
+              <title>
+               Hae
+              </title>
+              <path d="M12 20a7.948 7.948 0 0 1-5.657-2.343A7.948 7.948 0 0 1 4 12c0-2.137.832-4.146 2.343-5.657A7.948 7.948 0 0 1 12 4c2.137 0 4.146.832 5.657 2.343A7.948 7.948 0 0 1 20 12a7.948 7.948 0 0 1-2.343 5.657A7.948 7.948 0 0 1 12 20m11.707 2.293l-3.964-3.964A9.923 9.923 0 0 0 22 12a9.934 9.934 0 0 0-2.929-7.071A9.934 9.934 0 0 0 12 2a9.934 9.934 0 0 0-7.071 2.929A9.934 9.934 0 0 0 2 12a9.934 9.934 0 0 0 2.929 7.071A9.934 9.934 0 0 0 12 22a9.923 9.923 0 0 0 6.329-2.257l3.964 3.964a.997.997 0 0 0 1.414 0 .999.999 0 0 0 0-1.414" fill="#fff">
+              </path>
+             </svg>
+             <span>
+              Search
+             </span>
+            </a>
+           </li>
+          </ul>
+         </nav>
+        </div>
+       </div>
+      </div>
+      <div class="NavigationMenuContainer-sc-a150r5 eYNfMA">
+       <div class="WidthWrapper-sc-1b4rojj SubMenuWidthWrapper-sc-1ncisbb jlgzQz hKNGfp">
+        <ul class="MenuList-sc-1wi67m7 fXHdKh">
+         <li class="MenuListItem-sc-10dg1kg jdDfQb">
+          <div class="MenuListItemButton-sc-1pa7p0c kPYWFX">
+           <a href="/we-are-valio/">
+            We are Valio
+           </a>
+           <svg height="26" viewbox="0 0 26 26" width="26" xmlns="http://www.w3.org/2000/svg">
+            <path d="M13 18.414L3.293 8.707a1 1 0 1 1 1.414-1.414L13 15.586l8.293-8.293a1 1 0 1 1 1.414 1.414L13 18.414z" fill="#fff">
+            </path>
+           </svg>
+          </div>
+          <ul class="SubMenuListWrapper-sc-ursoxm lncTay">
+           <li class="SubMenuListItem-sc-1ralgtg dBvqOy">
+            <a class="SubMenuLink-sc-1p1p572 rQZyS" href="/we-are-valio/farmer-owned/">
+             Farmer owned
+            </a>
+           </li>
+           <li class="SubMenuListItem-sc-1ralgtg dBvqOy">
+            <a class="SubMenuLink-sc-1p1p572 rQZyS" href="/we-are-valio/owners-and-governance/">
+             Owners and governance
+            </a>
+           </li>
+           <li class="SubMenuListItem-sc-1ralgtg dBvqOy">
+            <a class="SubMenuLink-sc-1p1p572 rQZyS" href="/we-are-valio/exports/">
+             Exports and operations
+            </a>
+           </li>
+           <li class="SubMenuListItem-sc-1ralgtg dBvqOy">
+            <a class="SubMenuLink-sc-1p1p572 rQZyS" href="/we-are-valio/history/">
+             History
+            </a>
+           </li>
+           <li class="SubMenuListItem-sc-1ralgtg dBvqOy">
+            <a class="SubMenuLink-sc-1p1p572 rQZyS" href="/sustainability/reports-and-financial-statements/">
+             Financial Statements
+            </a>
+           </li>
+           <li class="SubMenuListItem-sc-1ralgtg dBvqOy">
+            <a class="SubMenuLink-sc-1p1p572 rQZyS" href="/code-of-conduct/">
+             Code of Conduct
+            </a>
+           </li>
+           <li class="SubMenuListItem-sc-1ralgtg dBvqOy">
+            <a class="SubMenuLink-sc-1p1p572 rQZyS" href="/media-contacts/">
+             Media contacts
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="MenuListItem-sc-10dg1kg jdDfQb">
+          <div class="MenuListItemButton-sc-1pa7p0c kPYWFX">
+           <a href="/sustainability/">
+            Sustainability
+           </a>
+           <svg height="26" viewbox="0 0 26 26" width="26" xmlns="http://www.w3.org/2000/svg">
+            <path d="M13 18.414L3.293 8.707a1 1 0 1 1 1.414-1.414L13 15.586l8.293-8.293a1 1 0 1 1 1.414 1.414L13 18.414z" fill="#fff">
+            </path>
+           </svg>
+          </div>
+          <ul class="SubMenuListWrapper-sc-ursoxm lncTay">
+           <li class="SubMenuListItem-sc-1ralgtg dBvqOy">
+            <a class="SubMenuLink-sc-1p1p572 rQZyS" href="/sustainability/farmer-owned-co-operative/">
+             Co-operative foundation
+            </a>
+           </li>
+           <li class="SubMenuListItem-sc-1ralgtg dBvqOy">
+            <a class="SubMenuLink-sc-1p1p572 rQZyS" href="/sustainability/animal-welfare/">
+             Animal welfare
+            </a>
+           </li>
+           <li class="SubMenuListItem-sc-1ralgtg dBvqOy">
+            <a class="SubMenuLink-sc-1p1p572 rQZyS" href="/sustainability/transparent-sourcing/">
+             Transparent sourcing
+            </a>
+           </li>
+           <li class="SubMenuListItem-sc-1ralgtg dBvqOy">
+            <a class="SubMenuLink-sc-1p1p572 rQZyS" href="/sustainability/promote-wellbeing/">
+             Innovations
+            </a>
+           </li>
+           <li class="SubMenuListItem-sc-1ralgtg dBvqOy">
+            <a class="SubMenuLink-sc-1p1p572 rQZyS" href="/carbon-footprint-2035/">
+             Carbon-neutral dairy 2035
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="MenuListItem-sc-10dg1kg jdDfQb">
+          <div class="MenuListItemButton-sc-1pa7p0c kPYWFX">
+           <a href="/brands-and-products/">
+            Brands and products
+           </a>
+           <svg height="26" viewbox="0 0 26 26" width="26" xmlns="http://www.w3.org/2000/svg">
+            <path d="M13 18.414L3.293 8.707a1 1 0 1 1 1.414-1.414L13 15.586l8.293-8.293a1 1 0 1 1 1.414 1.414L13 18.414z" fill="#fff">
+            </path>
+           </svg>
+          </div>
+          <ul class="SubMenuListWrapper-sc-ursoxm lncTay">
+           <li class="SubMenuListItem-sc-1ralgtg dBvqOy">
+            <a class="SubMenuLink-sc-1p1p572 rQZyS" href="/brands-and-products/valio-profeel/">
+             Valio PROfeel® protein snacks
+            </a>
+           </li>
+           <li class="SubMenuListItem-sc-1ralgtg dBvqOy">
+            <a class="SubMenuLink-sc-1p1p572 rQZyS" href="/brands-and-products/valio-oltermanni-cheese/">
+             Valio Oltermanni® cheese
+            </a>
+           </li>
+           <li class="SubMenuListItem-sc-1ralgtg dBvqOy">
+            <a class="SubMenuLink-sc-1p1p572 rQZyS" href="/brands-and-products/valio-oddlygood/">
+             Valio Oddlygood® plant based
+            </a>
+           </li>
+           <li class="SubMenuListItem-sc-1ralgtg dBvqOy">
+            <a class="SubMenuLink-sc-1p1p572 rQZyS" href="/brands-and-products/valio-viola/">
+             Valio Viola® spreadable cheese
+            </a>
+           </li>
+           <li class="SubMenuListItem-sc-1ralgtg dBvqOy">
+            <a class="SubMenuLink-sc-1p1p572 rQZyS" href="/brands-and-products/valios-master-makers-butter-and-spreads/">
+             Valio butter and spreads
+            </a>
+           </li>
+           <li class="SubMenuListItem-sc-1ralgtg dBvqOy">
+            <a class="SubMenuLink-sc-1p1p572 rQZyS" href="/brands-and-products/valio-milk-powders/">
+             Valio milk powders
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="MenuListItem-sc-10dg1kg jdDfQb">
+          <div class="MenuListItemButton-sc-1pa7p0c kPYWFX">
+           <a href="/careers/">
+            Careers
+           </a>
+           <svg height="26" viewbox="0 0 26 26" width="26" xmlns="http://www.w3.org/2000/svg">
+            <path d="M13 18.414L3.293 8.707a1 1 0 1 1 1.414-1.414L13 15.586l8.293-8.293a1 1 0 1 1 1.414 1.414L13 18.414z" fill="#fff">
+            </path>
+           </svg>
+          </div>
+          <ul class="SubMenuListWrapper-sc-ursoxm lncTay">
+           <li class="SubMenuListItem-sc-1ralgtg dBvqOy">
+            <a class="SubMenuLink-sc-1p1p572 rQZyS" href="/careers/working-at-valio-business-expert/">
+             Business experts
+            </a>
+           </li>
+           <li class="SubMenuListItem-sc-1ralgtg dBvqOy">
+            <a class="SubMenuLink-sc-1p1p572 rQZyS" href="/careers/working-at-valio-data-and-it/">
+             Data and IT
+            </a>
+           </li>
+           <li class="SubMenuListItem-sc-1ralgtg dBvqOy">
+            <a class="SubMenuLink-sc-1p1p572 rQZyS" href="/careers/working-at-valio-production-processes/">
+             Production processes
+            </a>
+           </li>
+           <li class="SubMenuListItem-sc-1ralgtg dBvqOy">
+            <a class="SubMenuLink-sc-1p1p572 rQZyS" href="/careers/working-at-valio-research-and-development/">
+             Research
+            </a>
+           </li>
+           <li class="SubMenuListItem-sc-1ralgtg dBvqOy">
+            <a class="SubMenuLink-sc-1p1p572 rQZyS" href="/careers/job-opportunities-for-students/">
+             Students
+            </a>
+           </li>
+           <li class="SubMenuListItem-sc-1ralgtg dBvqOy">
+            <a class="SubMenuLink-sc-1p1p572 rQZyS" href="/careers/values-and-culture/">
+             People and values
+            </a>
+           </li>
+          </ul>
+         </li>
+        </ul>
+        <ul class="MenuList-sc-1wi67m7 ContextualLinksList-sc-rnk3iw fXHdKh ivqfAw for-mobile">
+         <li class="MenuListItem-sc-10dg1kg ContextualLinkListItem-sc-a10rc0 jdDfQb eaNiCd">
+          <a class="ContextualLink-sc-u0c15f iyOCUS" href="https://www.valio.com//articles/">
+           <svg height="24" viewbox="0 0 26 26" width="24" xmlns="http://www.w3.org/2000/svg">
+            <title>
+             Hae
+            </title>
+            <path d="M12 20a7.948 7.948 0 0 1-5.657-2.343A7.948 7.948 0 0 1 4 12c0-2.137.832-4.146 2.343-5.657A7.948 7.948 0 0 1 12 4c2.137 0 4.146.832 5.657 2.343A7.948 7.948 0 0 1 20 12a7.948 7.948 0 0 1-2.343 5.657A7.948 7.948 0 0 1 12 20m11.707 2.293l-3.964-3.964A9.923 9.923 0 0 0 22 12a9.934 9.934 0 0 0-2.929-7.071A9.934 9.934 0 0 0 12 2a9.934 9.934 0 0 0-7.071 2.929A9.934 9.934 0 0 0 2 12a9.934 9.934 0 0 0 2.929 7.071A9.934 9.934 0 0 0 12 22a9.923 9.923 0 0 0 6.329-2.257l3.964 3.964a.997.997 0 0 0 1.414 0 .999.999 0 0 0 0-1.414" fill="#fff">
+            </path>
+           </svg>
+           <span>
+            Search
+           </span>
+          </a>
+         </li>
+        </ul>
+        <a class="SiteSectionLink-sc-o3mrm0 CountrySitesMobileLink-sc-s16opx hETple fIqFIo for-mobile" href="https://www.valio.com/countries/">
+         <svg height="21" viewbox="0 0 26 26" width="21" xmlns="http://www.w3.org/2000/svg">
+          <path d="M21.71 19.705a13.32 13.32 0 0 0 .222-2.83l1.585-.655a10.9 10.9 0 0 1-.354.989c-.376.907-.87 1.738-1.452 2.496zM7.84 22.714l1.59-.658a14.193 14.193 0 0 0 1.639 1.474c.174.132.349.254.523.372a11.055 11.055 0 0 1-2.801-.74 11.643 11.643 0 0 1-.95-.448zm-4.575-4.6l2.753-1.14A20.22 20.22 0 0 0 8.08 20.45l-2.217.919a10.895 10.895 0 0 1-2.6-3.253zm1.024-11.82a13.31 13.31 0 0 0-.221 2.829l-1.585.657c.103-.333.219-.664.354-.99.376-.906.87-1.737 1.452-2.495zm13.87-3.008l-1.59.658a14.02 14.02 0 0 0-1.638-1.474c-.181-.138-.363-.253-.544-.376.958.124 1.907.364 2.823.743.325.136.642.286.949.449zm4.576 4.599l-2.753 1.14a20.22 20.22 0 0 0-2.063-3.474l2.217-.92a10.895 10.895 0 0 1 2.599 3.254zm-1.99 2.989L23.5 9.733c.423 1.35.575 2.75.463 4.138l-2.21.915a20.335 20.335 0 0 0-1.007-3.912zm-4.908 6.362l-1.53-3.695 4.592-1.902c.477 1.342.78 2.678.925 3.946l-3.987 1.65zm2.23 5.384l-1.464-3.536 3.312-1.372c-.08 2.167-.714 3.943-1.848 4.908zm-3.312-2.77l1.467 3.54c-1.19.097-2.552-.396-3.943-1.453-.286-.217-.566-.46-.84-.713l3.316-1.374zm-2.296-5.543l1.53 3.695-3.994 1.654a17.803 17.803 0 0 1-2.13-3.447l4.594-1.902zm-6.283-3.892l3.987-1.651 1.53 3.695L7.1 14.36a17.861 17.861 0 0 1-.925-3.946zM7.933 3.38l1.465 3.535-3.313 1.373c.079-2.167.714-3.943 1.848-4.908zm3.312 2.77L9.782 2.618c.096-.008.189-.027.287-.027 1.118 0 2.374.5 3.652 1.47.286.219.566.46.84.715L11.246 6.15zm4.76.194a17.825 17.825 0 0 1 2.13 3.446l-4.594 1.903-1.531-3.695 3.995-1.654zM2.5 16.267a10.884 10.884 0 0 1-.463-4.138l2.209-.915a20.354 20.354 0 0 0 1.008 3.912L2.5 16.266zm22.51-8.242C22.268 1.403 14.65-1.753 8.025.99 1.403 3.732-1.753 11.352.99 17.975 3.06 22.975 7.913 26 13.017 26c1.654 0 3.337-.318 4.958-.99 6.622-2.742 9.778-10.362 7.035-16.985z" fill="#fff">
+          </path>
+         </svg>
+         Global
+        </a>
+       </div>
+      </div>
+     </div>
+    </header>
+    <div class="ContentWrapper-sc-1vjxafs KFRyQ">
+     <div class="PageWrapper-sc-1vh5pzu kNkqRW">
+      <section class="NotFoundWrapper-sc-12kohl1 fHOnev">
+       <svg height="100" viewbox="0 0 100 100" width="100" xmlns="http://www.w3.org/2000/svg">
+        <path d="M94 96H6c-1.102 0-2-.898-2-2V6c0-1.102.898-2 2-2h70v14c0 3.308 2.692 6 6 6h14v70c0 1.102-.898 2-2 2zM80 6.968L92.52 20H82c-1.102 0-2-.898-2-2V6.968zm19.928 15.476a1.985 1.985 0 0 0-.514-1.858l-20-20a2.005 2.005 0 0 0-.574-.388c-.058-.028-.118-.042-.18-.064a1.995 1.995 0 0 0-.54-.11C78.078.022 78.042 0 78 0H6C2.692 0 0 2.692 0 6v88c0 3.308 2.692 6 6 6h88c3.308 0 6-2.692 6-6V22.818c0-.128-.048-.248-.072-.374z" fill="#666">
+        </path>
+        <path d="M36.422 50c0-.714-.38-1.374-1-1.732L25 42.25a2 2 0 1 0-2 3.466L30.422 50 23 54.284a2 2 0 0 0 2 3.466l10.422-6.018c.62-.358 1-1.018 1-1.732M78.154 42.983a1.997 1.997 0 0 0-2.732-.732L65 48.267a2 2 0 1 0 0 3.466l10.422 6.016a2.003 2.003 0 0 0 2.732-.732 2.003 2.003 0 0 0-.732-2.734L70 50l7.422-4.284a2 2 0 0 0 .732-2.732M34.1 75.678a1.998 1.998 0 0 0 0 2.828 1.998 1.998 0 0 0 2.829 0c7.208-7.206 18.936-7.206 26.142 0a2.001 2.001 0 0 0 2.828 0 1.998 1.998 0 0 0 0-2.828c-8.766-8.768-23.03-8.768-31.798 0" fill="#666">
+        </path>
+       </svg>
+       <h1 class="sc-kEqYlL ORDm">
+        Requested page not found
+       </h1>
+       <p>
+        The link is invalid or the page has been removed from the service
+       </p>
+       <a class="sc-bdnylx kylQAo" href="/">
+        To main page
+       </a>
+      </section>
+     </div>
+    </div>
+    <footer class="FooterWrapper-sc-177pm2 hVnkNY">
+     <div class="FooterContainer-sc-gdion2 dlWOHf">
+      <section class="SectionWrapper-sc-ducii LeftSectionWrapper-sc-8du5sx fzjSjw IZIPa">
+       <div class="LogoWrapper-sc-dyuf0 gEJtIS">
+        <a class="LogoWrapper-sc-1cslqmg kUwqpM" href="/">
+         <img alt="Valio" src="https://static.valio.fi/ClientApp/build/static/media/valioLogo.e2c6eb2d.png" width="99px"/>
+        </a>
+       </div>
+       <ul class="LinkList-sc-vq55kz dCzUoQ">
+        <li class="LinkItem-sc-9tqkue iTKagb">
+         <a href="/terms-of-use/">
+          Terms of use ›
+         </a>
+        </li>
+        <li class="LinkItem-sc-9tqkue iTKagb">
+         <a href="/privacy-statement/">
+          Privacy policy ›
+         </a>
+        </li>
+       </ul>
+      </section>
+      <section class="SectionWrapper-sc-ducii RightSectionWrapper-sc-146blxc fzjSjw kSafYM">
+       <div class="SocialSectionWrapper-sc-1rtpgf2 cOEIUF">
+        <div class="IconGroup-sc-13nscqo iUoXDa">
+         <a href="https://twitter.com/Valio_Ltd" rel="noopener">
+          <svg height="28" viewbox="0 0 30 30" width="28" xmlns="http://www.w3.org/2000/svg">
+           <title>
+            Twitter
+           </title>
+           <path d="M18.621 6c1.595 0 2.459.597 3.256 1.328.665 0 1.529-.465 2.06-.664l.532-.333c-.333.864-.665 1.529-1.33 1.994l-.464.332c.996 0 1.66-.399 2.325-.665-.332.665-.864 1.33-1.329 1.728l-.664.532c0 .996 0 1.993-.2 2.79-1.063 4.784-3.72 8.107-7.973 9.502-2.747.833-5.706.62-8.305-.598a9.435 9.435 0 0 1-1.197-.598l-.332-.2h1.33c.398 0 .797 0 1.129-.132.93-.2 1.794-.465 2.458-.93.332-.2.864-.466 1.13-.731a4.252 4.252 0 0 1-3.788-2.99c.4 0 1.529.132 1.794-.133-.531 0-.996-.333-1.328-.532-1.064-.664-1.994-1.86-1.994-3.72l.465.198.864.266c.133 0 .399.133.532.067l-.731-.665a4.585 4.585 0 0 1-.465-5.05c.066.2.265.333.398.466a11.827 11.827 0 0 0 8.04 3.986c-.2-.531-.133-1.462 0-1.993a4.186 4.186 0 0 1 3.257-3.19L18.555 6" fill="#fff">
+           </path>
+          </svg>
+         </a>
+         <a href="https://www.linkedin.com/company/valio" rel="noopener">
+          <svg height="28" viewbox="0 0 30 30" width="28" xmlns="http://www.w3.org/2000/svg">
+           <title>
+            LinkedIn
+           </title>
+           <path d="M27.448 0C28.855 0 30 1.114 30 2.484v25.032C30 28.886 28.855 30 27.448 30H2.552C1.145 30 0 28.886 0 27.516V2.484C0 1.114 1.145 0 2.552 0h24.896zM25.16 24.85v-7.566c0-4.052-2.176-5.938-5.08-5.938-2.342 0-3.39 1.28-3.977 2.179v-1.87H11.69c.058 1.239 0 13.195 0 13.195h4.412v-7.368c0-.395.03-.789.146-1.07.319-.788 1.045-1.605 2.264-1.605 1.597 0 2.235 1.21 2.235 2.984v7.059h4.412zM7.042 9.855c1.539 0 2.497-1.014 2.497-2.28-.03-1.294-.958-2.28-2.468-2.28s-2.496.986-2.496 2.28c0 1.266.958 2.28 2.439 2.28h.028zM4.836 24.85h4.412V11.656H4.836V24.85z" fill="#fff">
+           </path>
+          </svg>
+         </a>
+        </div>
+       </div>
+       <div class="CopyrightWrapper-sc-1j4h2ve hTweHd">
+        <p>
+         Copyright © Valio Ltd
+        </p>
+       </div>
+      </section>
+     </div>
+    </footer>
+    <div class="CookieBarWrapper-sc-2ci540 cRJqtr">
+     <div class="TextWrapper-sc-n84q3v gCBiQh">
+      This website uses cookies. By using our website, you agree to the use of cookies.
+      <a class="LinkForMoreInfo-sc-q93p2 iLGcTZ" href="/cookie-policy/">
+       Cookie policy ›
+      </a>
+      <button class="DismissButton-sc-1yhxnhj jgZaZE" title="Sulje">
+       <svg height="26" viewbox="0 0 26 26" width="26" xmlns="http://www.w3.org/2000/svg">
+        <path d="M14.414 13l8.293-8.293a.999.999 0 1 0-1.414-1.414L13 11.586 4.707 3.293a.999.999 0 1 0-1.414 1.414L11.586 13l-8.293 8.293a.999.999 0 1 0 1.414 1.414L13 14.414l8.293 8.293a.997.997 0 0 0 1.414 0 .999.999 0 0 0 0-1.414L14.414 13z" fill="#fff">
+        </path>
+       </svg>
+      </button>
+     </div>
+    </div>
+   </div>
+  </div>
+  <script src="https://static.valio.fi/ClientApp/build/static/js/main.3bfc6eac.js" type="text/javascript">
+  </script>
+ </body>
+</html>

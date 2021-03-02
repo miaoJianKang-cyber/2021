@@ -1,0 +1,2002 @@
+<html itemscope="itemscope" itemtype="//schema.org/Website" lang="en-US">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link href="/favicon.ico" rel="icon" sizes="16x16" type="image/png"/>
+  <meta content="zkBkpZojRU0flrEKGn7v1atpXQ84lhiBxBMMSYUzkyE" name="google-site-verification"/>
+  <title>
+   Plastic Precision Single Screw Extruder Manufacturer in China - JF Extrusion Machinery
+  </title>
+  <link crossorigin="" href="https://fonts.gstatic.com/" rel="preconnect"/>
+  <style type="text/css">
+   @font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 100;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUOjIg1_i6t8kCHKm459WxZqh7k29Y.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 200;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZBg_z_PZ1.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 300;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZYgzz_PZ1.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 400;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUQjIg1_i6t8kCHKm459WxRyS7j.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 500;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZOg3z_PZ1.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 600;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZFgrz_PZ1.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 700;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZcgvz_PZ1.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 800;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZbgjz_PZ1.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 900;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZSgnz_PZ1.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 100;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUQjIg1_i6t8kCHKm45_QpRyS7j.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 200;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_aZA3gnD-w.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 300;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_cJD3gnD-w.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 400;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 500;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_ZpC3gnD-w.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 600;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_bZF3gnD-w.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 700;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 800;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_c5H3gnD-w.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 900;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_epG3gnD-w.ttf) format('truetype');
+}
+  </style>
+  <link as="font" crossorigin="" href="https://www.jfextruder.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2" rel="preload"/>
+  <link as="font" crossorigin="" href="https://www.jfextruder.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2" rel="preload"/>
+  <link as="font" crossorigin="" href="https://www.jfextruder.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0" rel="preload"/>
+  <link href="https://www.jfextruder.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-21973cf6ad012d180fa6d86be760173e.css" id="siteground-optimizer-combined-css-21973cf6ad012d180fa6d86be760173e" media="all" rel="stylesheet"/>
+  <meta content="Plastic Precision Single Screw Extruder Manufacturer in China - JF Extrusion Machinery" name="dc.title"/>
+  <meta content="The most competitive extrusion machinery with the same configuration and quality you can find in China. Turnkey solution from mold to operation. Provide comprehensive technical and knowledge support for new entrants." name="dc.description"/>
+  <meta content="https://www.jfextruder.com/" name="dc.relation"/>
+  <meta content="https://www.jfextruder.com/" name="dc.source"/>
+  <meta content="en_US" name="dc.language"/>
+  <meta content="The most competitive extrusion machinery with the same configuration and quality you can find in China. Turnkey solution from mold to operation. Provide comprehensive technical and knowledge support for new entrants." name="description"/>
+  <meta content="index, follow" name="robots"/>
+  <meta content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" name="googlebot"/>
+  <meta content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" name="bingbot"/>
+  <link href="https://www.jfextruder.com/" rel="canonical"/>
+  <script type="application/ld+json">
+   {"@context" : "https://schema.org","@type" : "Organization","logo": "https:\/\/www.jfextruder.com\/wp-content\/uploads\/2020\/08\/logo-mini-site.jpg","name" : "JF Plastic Extrusion Machinery","url" : "https:\/\/www.jfextruder.com","contactPoint": [{
+ "@type": "ContactPoint",
+ "telephone": "+8618668080351","contactOption": "None","contactType": "sales"
+ }],"sameAs" : ["https:\/\/www.facebook.com\/Jinxin-Plastic-Machinery-Firerymed-100983974866582", "https:\/\/www.youtube.com\/playlist?list=PLeGR8jnxTMrJlCqHInPoLHKo5A9bm3dq8"]}
+  </script>
+  <script type="application/ld+json">
+   {
+ "@context": "https://schema.org",
+ "@type": "WebSite",
+ "url" : "https:\/\/www.jfextruder.com",
+ "potentialAction": {
+ "@type": "SearchAction",
+ "target": "https:\/\/www.jfextruder.com\/?s={search_term_string}",
+ "query-input": "required name=search_term_string"
+ }
+ }
+  </script>
+  <meta content="https://www.jfextruder.com/" property="og:url"/>
+  <meta content="JF Extrusion Machinery" property="og:site_name"/>
+  <meta content="en_US" property="og:locale"/>
+  <meta content="website" property="og:type"/>
+  <meta content="Plastic Precision Single Screw Extruder Manufacturer in China - JF Extrusion Machinery" property="og:title"/>
+  <meta content="The most competitive extrusion machinery with the same configuration and quality you can find in China. Turnkey solution from mold to operation. Provide comprehensive technical and knowledge support for new entrants." property="og:description"/>
+  <meta content="summary" name="twitter:card"/>
+  <meta content="Plastic Precision Single Screw Extruder Manufacturer in China - JF Extrusion Machinery" name="twitter:title"/>
+  <meta content="The most competitive extrusion machinery with the same configuration and quality you can find in China. Turnkey solution from mold to operation. Provide comprehensive technical and knowledge support for new entrants." name="twitter:description"/>
+  <script id="jquery-core-js" src="https://www.jfextruder.com/wp-includes/js/jquery/jquery.min.js" type="text/javascript">
+  </script>
+  <script id="jquery-migrate-js" src="https://www.jfextruder.com/wp-includes/js/jquery/jquery-migrate.min.js" type="text/javascript">
+  </script>
+  <script defer="" id="custom-script-js" src="https://www.jfextruder.com/wp-content/uploads/siteground-optimizer-assets/custom-script.min.js" type="text/javascript">
+  </script>
+  <script defer="" id="dynamic-script-js" src="https://www.jfextruder.com/wp-content/uploads/siteground-optimizer-assets/dynamic-script.min.js" type="text/javascript">
+  </script>
+  <link href="https://www.jfextruder.com/page/2/" rel="next"/>
+  <link href="https://www.jfextruder.com/wp-json/" rel="https://api.w.org/"/>
+  <link href="https://www.jfextruder.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+  <link href="https://www.jfextruder.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+  <script type="application/ld+json">
+   {
+ "@context": "https://schema.org/",
+ "@type": "SiteNavigationElement","name":["Home","About","Proudcts","Extruders &amp; Downstream Machines","Single Screw Extruder","Cooling &amp; Sizing","Haul Off Machine","Knitting Machine","Cutter","Coiling and Winding","Extrusion Lines","High Pressure Pipe","Infrastructure Use","Medical Use","Lighting Use","Packaging Use","Pneumatics and Automobile Tubing","Customers","News","Contact"],"url":["https:\/\/www.jfextruder.com\/","https:\/\/www.jfextruder.com\/single-screw-extruder-manufacturer\/","https:\/\/www.jfextruder.com\/product\/","https:\/\/www.jfextruder.com\/product-category\/extruders-downstream-machines\/","https:\/\/www.jfextruder.com\/product\/single-screw-extruder\/","https:\/\/www.jfextruder.com\/product-category\/extruders-downstream-machines\/cooling-sizing\/","https:\/\/www.jfextruder.com\/product\/haul-off\/","https:\/\/www.jfextruder.com\/product\/knitting-machine\/","https:\/\/www.jfextruder.com\/product-category\/extruders-downstream-machines\/cutter\/","https:\/\/www.jfextruder.com\/product\/coiling-and-winding\/","https:\/\/www.jfextruder.com\/product-category\/extrusion-lines\/","https:\/\/www.jfextruder.com\/product-category\/high-pressure-pipe\/","https:\/\/www.jfextruder.com\/product-category\/infrastructure-use\/","https:\/\/www.jfextruder.com\/product-category\/medical-use\/","https:\/\/www.jfextruder.com\/product-category\/lighting-use\/","https:\/\/www.jfextruder.com\/product-category\/packaging-use\/","https:\/\/www.jfextruder.com\/product-category\/pneumatics-and-automobile-tubing\/","https:\/\/www.jfextruder.com\/customers\/","https:\/\/www.jfextruder.com\/news\/","https:\/\/www.jfextruder.com\/contact\/"]}
+  </script>
+  <style>
+   .breadcrumb {list-style: none;margin:0}.breadcrumb li {margin:0;display:inline;position:relative}.breadcrumb li::after{content:' > '}.breadcrumb li:last-child::after{display:none}
+  </style>
+  <link href="https://www.jfextruder.com/wp-content/uploads/2020/08/cropped-logo-mini-site-32x32.jpg" rel="icon" sizes="32x32"/>
+  <link href="https://www.jfextruder.com/wp-content/uploads/2020/08/cropped-logo-mini-site-192x192.jpg" rel="icon" sizes="192x192"/>
+  <link href="https://www.jfextruder.com/wp-content/uploads/2020/08/cropped-logo-mini-site-180x180.jpg" rel="apple-touch-icon"/>
+  <meta content="https://www.jfextruder.com/wp-content/uploads/2020/08/cropped-logo-mini-site-270x270.jpg" name="msapplication-TileImage"/>
+ </head>
+ <body class="home blog custom-background content-right elementor-default elementor-kit-251 e--ua-blink e--ua-chrome e--ua-webkit" data-elementor-device-mode="tablet">
+  <div class="wrapper">
+   <div class="section-header-home">
+    <section class="top-bar">
+     <div class="inner">
+      <div class="top-bar-lt">
+       <i class="fa fa-phone">
+       </i>
+       Call:
+       <a href="tel:+86 571 5811007">
+        +86 571 58110077
+       </a>
+       <i class="fa fa-envelope">
+       </i>
+       E-mail:
+       <a href="mailto:sales@jfextruder.com">
+        sales@jfextruder.com
+       </a>
+      </div>
+      <div class="top-bar-rt">
+       <a href="/inquiry/">
+        Get a Quote
+       </a>
+      </div>
+     </div>
+    </section>
+    <header class="header header-middle" itemscope="" itemtype="//schema.org/WPHeader">
+     <div class="inner brand">
+      <div class="extra-info flt">
+       <p>
+        <strong>
+         Single Screw Extruder Manufacturer
+        </strong>
+       </p>
+      </div>
+      <h1 class="logo">
+       <a href="https://www.jfextruder.com/" itemprop="url" rel="Home">
+        <img alt="JF Extrusion Machinery" src="/wp-content/uploads/2020/08/cropped-logo-1.png" title="JF Extrusion Machinery"/>
+        <strong class="site-name" itemprop="name">
+         JF Extrusion Machinery
+        </strong>
+       </a>
+      </h1>
+      <div class="extra-info frt">
+       <div class="search-post">
+        <form action="https://www.jfextruder.com/" class="search-form" method="get" role="search">
+         <input class="search-field" id="search-form-602dcb2f4f9d5" name="s" placeholder="Search …" type="search" x-webkit-speech=""/>
+         <button class="search-submit ease" title="Search" type="submit">
+          <i class="fa fa-search">
+          </i>
+          <span class="screen-reader-text">
+           Search
+          </span>
+         </button>
+        </form>
+       </div>
+       <p>
+       </p>
+      </div>
+     </div>
+     <div class="main-nav">
+      <div class="inner">
+       <nav class="main-menu" itemscope="" itemtype="//schema.org/SiteNavigationElement">
+        <div class="mobi-title">
+         <span>
+          Menu
+         </span>
+         <a class="mobi-menu-close">
+          <i class="fa fa-times">
+          </i>
+         </a>
+        </div>
+        <ul class="nav-menu" id="main-nav-menu">
+         <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-2221" id="menu-item-2221">
+          <a aria-current="page" href="https://www.jfextruder.com/" itemprop="url">
+           <span class="menu-title">
+            Home
+           </span>
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-219" id="menu-item-219">
+          <a href="https://www.jfextruder.com/single-screw-extruder-manufacturer/" itemprop="url">
+           <span class="menu-title">
+            About
+           </span>
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type_archive menu-item-object-product menu-item-has-children menu-item-2240" id="menu-item-2240">
+          <a href="https://www.jfextruder.com/product/" itemprop="url">
+           <span class="menu-title">
+            Proudcts
+           </span>
+          </a>
+          <ul class="sub-menu">
+           <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-465" id="menu-item-465">
+            <a href="https://www.jfextruder.com/product-category/extruders-downstream-machines/" itemprop="url">
+             <span class="menu-title">
+              Extruders &amp; Downstream Machines
+             </span>
+            </a>
+            <ul class="sub-menu">
+             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-1111" id="menu-item-1111">
+              <a href="https://www.jfextruder.com/product/single-screw-extruder/" itemprop="url">
+               <span class="menu-title">
+                Single Screw Extruder
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-466" id="menu-item-466">
+              <a href="https://www.jfextruder.com/product-category/extruders-downstream-machines/cooling-sizing/" itemprop="url">
+               <span class="menu-title">
+                Cooling &amp; Sizing
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-1113" id="menu-item-1113">
+              <a href="https://www.jfextruder.com/product/haul-off/" itemprop="url">
+               <span class="menu-title">
+                Haul Off Machine
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-1114" id="menu-item-1114">
+              <a href="https://www.jfextruder.com/product/knitting-machine/" itemprop="url">
+               <span class="menu-title">
+                Knitting Machine
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-548" id="menu-item-548">
+              <a href="https://www.jfextruder.com/product-category/extruders-downstream-machines/cutter/" itemprop="url">
+               <span class="menu-title">
+                Cutter
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-1112" id="menu-item-1112">
+              <a href="https://www.jfextruder.com/product/coiling-and-winding/" itemprop="url">
+               <span class="menu-title">
+                Coiling and Winding
+               </span>
+              </a>
+             </li>
+            </ul>
+            <a class="mean-clicked" href="javascript:void(0)">
+             <i>
+             </i>
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-468" id="menu-item-468">
+            <a href="https://www.jfextruder.com/product-category/extrusion-lines/" itemprop="url">
+             <span class="menu-title">
+              Extrusion Lines
+             </span>
+            </a>
+            <ul class="sub-menu">
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1120" id="menu-item-1120">
+              <a href="https://www.jfextruder.com/product-category/high-pressure-pipe/" itemprop="url">
+               <span class="menu-title">
+                High Pressure Pipe
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1121" id="menu-item-1121">
+              <a href="https://www.jfextruder.com/product-category/infrastructure-use/" itemprop="url">
+               <span class="menu-title">
+                Infrastructure Use
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1123" id="menu-item-1123">
+              <a href="https://www.jfextruder.com/product-category/medical-use/" itemprop="url">
+               <span class="menu-title">
+                Medical Use
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1122" id="menu-item-1122">
+              <a href="https://www.jfextruder.com/product-category/lighting-use/" itemprop="url">
+               <span class="menu-title">
+                Lighting Use
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1124" id="menu-item-1124">
+              <a href="https://www.jfextruder.com/product-category/packaging-use/" itemprop="url">
+               <span class="menu-title">
+                Packaging Use
+               </span>
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1125" id="menu-item-1125">
+              <a href="https://www.jfextruder.com/product-category/pneumatics-and-automobile-tubing/" itemprop="url">
+               <span class="menu-title">
+                Pneumatics and Automobile Tubing
+               </span>
+              </a>
+             </li>
+            </ul>
+            <a class="mean-clicked" href="javascript:void(0)">
+             <i>
+             </i>
+            </a>
+           </li>
+          </ul>
+          <a class="mean-clicked" href="javascript:void(0)">
+           <i>
+           </i>
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-602" id="menu-item-602">
+          <a href="https://www.jfextruder.com/customers/" itemprop="url">
+           <span class="menu-title">
+            Customers
+           </span>
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-603" id="menu-item-603">
+          <a href="https://www.jfextruder.com/news/" itemprop="url">
+           <span class="menu-title">
+            News
+           </span>
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216" id="menu-item-216">
+          <a href="https://www.jfextruder.com/contact/" itemprop="url">
+           <span class="menu-title">
+            Contact
+           </span>
+          </a>
+         </li>
+        </ul>
+       </nav>
+       <a class="btn-search radius" title="Search">
+        <i class="fa fa-search">
+        </i>
+       </a>
+      </div>
+      <div class="search-box" id="menu-search-box">
+       <div class="mobi-title">
+        <span>
+         Search
+        </span>
+        <a class="mobi-menu-close">
+         <i class="fa fa-times">
+         </i>
+        </a>
+       </div>
+       <div class="inner">
+        <link href="https://www.jfextruder.com/" itemprop="url"/>
+        <form action="https://www.jfextruder.com/" id="searchform" itemprop="potentialAction" itemscope="" itemtype="//schema.org/SearchAction" method="get" role="search">
+         <meta content="https://www.jfextruder.com/?s={s}" itemprop="target"/>
+         <input class="searchInput" id="ls" itemprop="query-input query" name="s" placeholder="Search …" type="text" x-webkit-speech=""/>
+         <button class="btn ease" id="searchsubmit" title="Search" type="submit">
+          <i class="fa fa-search">
+          </i>
+          Search
+         </button>
+        </form>
+       </div>
+      </div>
+     </div>
+     <div class="mobile-navigation">
+      <a class="btn-search radius" title="Search">
+       <i class="fa fa-search">
+       </i>
+      </a>
+      <a class="mobi-menu radius">
+       <i class="fa fa-bars">
+       </i>
+      </a>
+     </div>
+    </header>
+   </div>
+   <div class="swiper-container slideshow-container">
+    <img alt="Plastic Extruder Manufacturer In China " src="https://www.jfextruder.com/wp-content/uploads/2020/11/banner-home.jpg" title="Single Screw Expert - Tube, Hose, Profile, Small Diameter Pipes Extrusion Machines"/>
+    <div class="swiper-caption">
+     <div class="inner">
+      <div class="slider-caption-content">
+       <h2 class="pop-slider-heading">
+        Plastic Extruder Manufacturer In China
+       </h2>
+       <div class="pop-slider-description">
+        <p>
+         Single Screw Expert - Tube, Hose, Profile, Small Diameter Pipes Extrusion Machines
+        </p>
+       </div>
+       <a href="https://www.jfextruder.com/product/">
+        <span class="btn">
+         Read more
+         <i class="fa fa-angle-right">
+         </i>
+        </span>
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="container">
+    <section class="section-item section-editor" id="wewe-4">
+     <div class="inner">
+      <div class="section-container">
+       <div class="section-heading">
+        <h2 class="heading-title">
+         <b>
+          Applications of Our Machines
+         </b>
+        </h2>
+       </div>
+       <div class="section-content">
+        <p style="text-align: center;">
+         We provide turnkey solutions to your thermoplastic extrusion projects. This includes die, dosing, extrusion, and other auxiliary aspects. Through our expertise, you will find suitable and affordable solutions for your needs.
+        </p>
+        <div class="gallery galleryid-1321 gallery-columns-3 gallery-size-thumbnail" id="gallery-1">
+         <figure class="gallery-item">
+          <div class="gallery-icon landscape">
+           <a aria-label="" class="custom-link no-lightbox" href="https://www.jfextruder.com/product-category/lighting-use/" onclick="event.stopPropagation()" rel="" target="_self" title="lighting profile extrusion machine">
+            <img alt="lighting profile extrusion machine" aria-describedby="gallery-1-685" class="attachment-thumbnail size-thumbnail" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/lighting-profile-150x150.jpg" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/lighting-profile-150x150.jpg 150w, https://www.jfextruder.com/wp-content/uploads/2020/08/lighting-profile-300x300.jpg 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/lighting-profile-100x100.jpg 100w, https://www.jfextruder.com/wp-content/uploads/2020/08/lighting-profile.jpg 350w" style="width: 197.347px; height: 197.347px;" width="150"/>
+           </a>
+          </div>
+          <figcaption class="wp-caption-text gallery-caption" id="gallery-1-685">
+           Lighting Use (PC/PMMA Profile and Tube)
+           <br/>
+          </figcaption>
+         </figure>
+         <figure class="gallery-item">
+          <div class="gallery-icon landscape">
+           <a aria-label="" class="custom-link no-lightbox" href="https://www.jfextruder.com/product-category/infrastructure-use/" onclick="event.stopPropagation()" rel="" target="_self" title="Infrastructure Use Pipes extrusion machine">
+            <img alt="Infrastructure Use Pipes extrusion machine" aria-describedby="gallery-1-947" class="attachment-thumbnail size-thumbnail" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/pipe-1-150x150.jpg" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/pipe-1-150x150.jpg 150w, https://www.jfextruder.com/wp-content/uploads/2020/08/pipe-1-100x100.jpg 100w, https://www.jfextruder.com/wp-content/uploads/2020/08/pipe-1.jpg 300w" style="width: 197.347px; height: 197.347px;" width="150"/>
+           </a>
+          </div>
+          <figcaption class="wp-caption-text gallery-caption" id="gallery-1-947">
+           Infrastructure Use (PVC/HDPE/PP-R Pipe)
+           <br/>
+          </figcaption>
+         </figure>
+         <figure class="gallery-item">
+          <div class="gallery-icon landscape">
+           <a aria-label="" class="custom-link no-lightbox" href="https://www.jfextruder.com/product-category/packaging-use/" onclick="event.stopPropagation()" rel="" target="_self" title="Packaging Use (PE/PP/PETG/PC)">
+            <img alt="Packaging use plastic tube extrusion machine" aria-describedby="gallery-1-684" class="attachment-thumbnail size-thumbnail" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/dip-tube-150x150.jpg" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/dip-tube-150x150.jpg 150w, https://www.jfextruder.com/wp-content/uploads/2020/08/dip-tube-100x100.jpg 100w, https://www.jfextruder.com/wp-content/uploads/2020/08/dip-tube.jpg 300w" style="width: 197.347px; height: 197.347px;" width="150"/>
+           </a>
+          </div>
+          <figcaption class="wp-caption-text gallery-caption" id="gallery-1-684">
+           Packaging Use (PE/PP/PETG/PC Tube)
+           <br/>
+          </figcaption>
+         </figure>
+         <figure class="gallery-item">
+          <div class="gallery-icon landscape">
+           <a aria-label="" class="custom-link no-lightbox" href="https://www.jfextruder.com/product-category/high-pressure-pipe/" onclick="event.stopPropagation()" rel="" target="_self" title="High Pressure Hose Pipe Extrusion Machine">
+            <img alt="High Pressure Hose Pipe Extrusion Machine" aria-describedby="gallery-1-687" class="attachment-thumbnail size-thumbnail" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/braided-hose-pipe-150x150.jpg" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/braided-hose-pipe-150x150.jpg 150w, https://www.jfextruder.com/wp-content/uploads/2020/08/braided-hose-pipe-100x100.jpg 100w, https://www.jfextruder.com/wp-content/uploads/2020/08/braided-hose-pipe.jpg 300w" style="width: 197.347px; height: 197.347px;" width="150"/>
+           </a>
+          </div>
+          <figcaption class="wp-caption-text gallery-caption" id="gallery-1-687">
+           High Pressure Hose Pipe (PVC/PU Fiber Braided)
+           <br/>
+          </figcaption>
+         </figure>
+         <figure class="gallery-item">
+          <div class="gallery-icon landscape">
+           <a aria-label="" class="custom-link no-lightbox" href="https://www.jfextruder.com/product-category/pneumatics-and-automobile-tubing/" onclick="event.stopPropagation()" rel="" target="_self" title="Pneumatics and Automobile Tubing Extrusion Machine">
+            <img alt="Pneumatics and Automobile Tubing Extrusion Machine" aria-describedby="gallery-1-688" class="attachment-thumbnail size-thumbnail" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/Flexible-Hose-Pipe-150x150.jpg" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/Flexible-Hose-Pipe-150x150.jpg 150w, https://www.jfextruder.com/wp-content/uploads/2020/08/Flexible-Hose-Pipe-100x100.jpg 100w, https://www.jfextruder.com/wp-content/uploads/2020/08/Flexible-Hose-Pipe.jpg 300w" style="width: 197.347px; height: 197.347px;" width="150"/>
+           </a>
+          </div>
+          <figcaption class="wp-caption-text gallery-caption" id="gallery-1-688">
+           Pneumatics and Automobile (PU/PA Tubing)
+           <br/>
+          </figcaption>
+         </figure>
+         <figure class="gallery-item">
+          <div class="gallery-icon landscape">
+           <a aria-label="" class="custom-link no-lightbox" href="https://www.jfextruder.com/product-category/medical-use/" onclick="event.stopPropagation()" rel="" target="_self" title="Medical use tubing extrusion machine">
+            <img alt="Medical use tubing extrusion machine" aria-describedby="gallery-1-877" class="attachment-thumbnail size-thumbnail" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.jfextruder.com/wp-content/uploads/2020/09/15712792021-150x150.jpg" srcset="https://www.jfextruder.com/wp-content/uploads/2020/09/15712792021-150x150.jpg 150w, https://www.jfextruder.com/wp-content/uploads/2020/09/15712792021-300x300.jpg 300w, https://www.jfextruder.com/wp-content/uploads/2020/09/15712792021-100x100.jpg 100w" style="width: 197.347px; height: 197.347px;" width="150"/>
+           </a>
+          </div>
+          <figcaption class="wp-caption-text gallery-caption" id="gallery-1-877">
+           Medical Use ( TPE/PVC Tubing)
+           <br/>
+          </figcaption>
+         </figure>
+         <p>
+         </p>
+        </div>
+       </div>
+      </div>
+     </div>
+    </section>
+    <section class="section-item section-products gallery-products" id="gallery-products-1">
+     <div class="inner">
+      <div class="section-container">
+       <div class="section-heading">
+        <h2 class="heading-title">
+         <b>
+          <a href="https://www.jfextruder.com/products">
+           Products
+          </a>
+         </b>
+         <span class="link-more">
+          <a href="https://www.jfextruder.com/products">
+           More
+          </a>
+         </span>
+        </h2>
+       </div>
+       <div class="section-content gallery-container products-container gallery-columns-4">
+        <figure class="item-content highlight">
+         <div class="item-grid-box">
+          <a href="https://www.jfextruder.com/product/pu-tube-extrusion-line/">
+           <div class="item-cover">
+            <div class="attachment">
+             <div class="thumbnail">
+              <div class="centered">
+               <img alt="PU Tube Extrusion Line" class="attachment-medium size-medium wp-post-image lazyload" data-src="https://www.jfextruder.com/wp-content/uploads/2020/09/PU-tube-extrusion-line-300x225.jpg" data-srcset="https://www.jfextruder.com/wp-content/uploads/2020/09/PU-tube-extrusion-line-300x225.jpg 300w, https://www.jfextruder.com/wp-content/uploads/2020/09/PU-tube-extrusion-line.jpg 700w" height="225" sizes="(max-width: 300px) 100vw, 300px" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="width: 205.406px; height: 205.406px;" title="PU Tube Extrusion Line" width="300"/>
+               <noscript>
+                <img alt="PU Tube Extrusion Line" class="attachment-medium size-medium wp-post-image lazyload" height="225" sizes="(max-width: 300px) 100vw, 300px" src="https://www.jfextruder.com/wp-content/uploads/2020/09/PU-tube-extrusion-line-300x225.jpg" srcset="https://www.jfextruder.com/wp-content/uploads/2020/09/PU-tube-extrusion-line-300x225.jpg 300w, https://www.jfextruder.com/wp-content/uploads/2020/09/PU-tube-extrusion-line.jpg 700w" title="PU Tube Extrusion Line" width="300"/>
+               </noscript>
+              </div>
+             </div>
+            </div>
+            <i class="mask">
+            </i>
+           </div>
+           <figcaption>
+            <h3>
+             PU Tube Extrusion Line
+            </h3>
+           </figcaption>
+          </a>
+         </div>
+        </figure>
+        <figure class="item-content highlight">
+         <div class="item-grid-box">
+          <a href="https://www.jfextruder.com/product/pa-tube-extrusion-line/">
+           <div class="item-cover">
+            <div class="attachment">
+             <div class="thumbnail">
+              <div class="centered">
+               <img alt="PA Tube Extrusion Line" class="attachment-medium size-medium wp-post-image lazyload" data-src="https://www.jfextruder.com/wp-content/uploads/2020/09/PA-tube-extrusion-line-300x300.jpg" data-srcset="https://www.jfextruder.com/wp-content/uploads/2020/09/PA-tube-extrusion-line-300x300.jpg 300w, https://www.jfextruder.com/wp-content/uploads/2020/09/PA-tube-extrusion-line-150x150.jpg 150w, https://www.jfextruder.com/wp-content/uploads/2020/09/PA-tube-extrusion-line-100x100.jpg 100w, https://www.jfextruder.com/wp-content/uploads/2020/09/PA-tube-extrusion-line.jpg 700w" height="300" sizes="(max-width: 300px) 100vw, 300px" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="width: 205.406px; height: 205.406px;" title="PA Tube Extrusion Line" width="300"/>
+               <noscript>
+                <img alt="PA Tube Extrusion Line" class="attachment-medium size-medium wp-post-image lazyload" height="300" sizes="(max-width: 300px) 100vw, 300px" src="https://www.jfextruder.com/wp-content/uploads/2020/09/PA-tube-extrusion-line-300x300.jpg" srcset="https://www.jfextruder.com/wp-content/uploads/2020/09/PA-tube-extrusion-line-300x300.jpg 300w, https://www.jfextruder.com/wp-content/uploads/2020/09/PA-tube-extrusion-line-150x150.jpg 150w, https://www.jfextruder.com/wp-content/uploads/2020/09/PA-tube-extrusion-line-100x100.jpg 100w, https://www.jfextruder.com/wp-content/uploads/2020/09/PA-tube-extrusion-line.jpg 700w" title="PA Tube Extrusion Line" width="300"/>
+               </noscript>
+              </div>
+             </div>
+            </div>
+            <i class="mask">
+            </i>
+           </div>
+           <figcaption>
+            <h3>
+             PA Tube Extrusion Line
+            </h3>
+           </figcaption>
+          </a>
+         </div>
+        </figure>
+        <figure class="item-content highlight">
+         <div class="item-grid-box">
+          <a href="https://www.jfextruder.com/product/tpe-tourniquet-extrusion-line/">
+           <div class="item-cover">
+            <div class="attachment">
+             <div class="thumbnail">
+              <div class="centered">
+               <img alt="TPE Tourniquet Extrusion Line" class="attachment-medium size-medium wp-post-image lazyload" data-src="https://www.jfextruder.com/wp-content/uploads/2020/09/TPE-tourniquet-extrusion-line-300x300.jpg" data-srcset="https://www.jfextruder.com/wp-content/uploads/2020/09/TPE-tourniquet-extrusion-line-300x300.jpg 300w, https://www.jfextruder.com/wp-content/uploads/2020/09/TPE-tourniquet-extrusion-line-150x150.jpg 150w, https://www.jfextruder.com/wp-content/uploads/2020/09/TPE-tourniquet-extrusion-line-100x100.jpg 100w, https://www.jfextruder.com/wp-content/uploads/2020/09/TPE-tourniquet-extrusion-line.jpg 700w" height="300" sizes="(max-width: 300px) 100vw, 300px" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="width: 205.406px; height: 205.406px;" title="TPE Tourniquet Extrusion Line" width="300"/>
+               <noscript>
+                <img alt="TPE Tourniquet Extrusion Line" class="attachment-medium size-medium wp-post-image lazyload" height="300" sizes="(max-width: 300px) 100vw, 300px" src="https://www.jfextruder.com/wp-content/uploads/2020/09/TPE-tourniquet-extrusion-line-300x300.jpg" srcset="https://www.jfextruder.com/wp-content/uploads/2020/09/TPE-tourniquet-extrusion-line-300x300.jpg 300w, https://www.jfextruder.com/wp-content/uploads/2020/09/TPE-tourniquet-extrusion-line-150x150.jpg 150w, https://www.jfextruder.com/wp-content/uploads/2020/09/TPE-tourniquet-extrusion-line-100x100.jpg 100w, https://www.jfextruder.com/wp-content/uploads/2020/09/TPE-tourniquet-extrusion-line.jpg 700w" title="TPE Tourniquet Extrusion Line" width="300"/>
+               </noscript>
+              </div>
+             </div>
+            </div>
+            <i class="mask">
+            </i>
+           </div>
+           <figcaption>
+            <h3>
+             TPE Tourniquet Extrusion Line
+            </h3>
+           </figcaption>
+          </a>
+         </div>
+        </figure>
+        <figure class="item-content highlight">
+         <div class="item-grid-box">
+          <a href="https://www.jfextruder.com/product/fiber-reinforced-hose-extrusion-line/">
+           <div class="item-cover">
+            <div class="attachment">
+             <div class="thumbnail">
+              <div class="centered">
+               <img alt="PVC Fiber Reinforced Hose Extrusion Line" class="attachment-medium size-medium wp-post-image lazyload" data-src="https://www.jfextruder.com/wp-content/uploads/2020/09/yarn-braided-hose-1-300x300.jpg" data-srcset="https://www.jfextruder.com/wp-content/uploads/2020/09/yarn-braided-hose-1-300x300.jpg 300w, https://www.jfextruder.com/wp-content/uploads/2020/09/yarn-braided-hose-1-150x150.jpg 150w, https://www.jfextruder.com/wp-content/uploads/2020/09/yarn-braided-hose-1-768x768.jpg 768w, https://www.jfextruder.com/wp-content/uploads/2020/09/yarn-braided-hose-1-700x700.jpg 700w, https://www.jfextruder.com/wp-content/uploads/2020/09/yarn-braided-hose-1-100x100.jpg 100w, https://www.jfextruder.com/wp-content/uploads/2020/09/yarn-braided-hose-1.jpg 800w" height="300" sizes="(max-width: 300px) 100vw, 300px" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="width: 205.406px; height: 205.406px;" title="PVC Fiber Reinforced Hose Extrusion Line" width="300"/>
+               <noscript>
+                <img alt="PVC Fiber Reinforced Hose Extrusion Line" class="attachment-medium size-medium wp-post-image lazyload" height="300" sizes="(max-width: 300px) 100vw, 300px" src="https://www.jfextruder.com/wp-content/uploads/2020/09/yarn-braided-hose-1-300x300.jpg" srcset="https://www.jfextruder.com/wp-content/uploads/2020/09/yarn-braided-hose-1-300x300.jpg 300w, https://www.jfextruder.com/wp-content/uploads/2020/09/yarn-braided-hose-1-150x150.jpg 150w, https://www.jfextruder.com/wp-content/uploads/2020/09/yarn-braided-hose-1-768x768.jpg 768w, https://www.jfextruder.com/wp-content/uploads/2020/09/yarn-braided-hose-1-700x700.jpg 700w, https://www.jfextruder.com/wp-content/uploads/2020/09/yarn-braided-hose-1-100x100.jpg 100w, https://www.jfextruder.com/wp-content/uploads/2020/09/yarn-braided-hose-1.jpg 800w" title="PVC Fiber Reinforced Hose Extrusion Line" width="300"/>
+               </noscript>
+              </div>
+             </div>
+            </div>
+            <i class="mask">
+            </i>
+           </div>
+           <figcaption>
+            <h3>
+             PVC Fiber Reinforced Hose Extrusion Line
+            </h3>
+           </figcaption>
+          </a>
+         </div>
+        </figure>
+        <figure class="item-content highlight">
+         <div class="item-grid-box">
+          <a href="https://www.jfextruder.com/product/medical-tubing-extrusion-line/">
+           <div class="item-cover">
+            <div class="attachment">
+             <div class="thumbnail">
+              <div class="centered">
+               <img alt="Medical Tubing Extrusion Line" class="attachment-medium size-medium wp-post-image lazyload" data-src="https://www.jfextruder.com/wp-content/uploads/2020/08/medical-tubing-extrusion-line-300x300.jpg" data-srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/medical-tubing-extrusion-line-300x300.jpg 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/medical-tubing-extrusion-line-150x150.jpg 150w, https://www.jfextruder.com/wp-content/uploads/2020/08/medical-tubing-extrusion-line-100x100.jpg 100w, https://www.jfextruder.com/wp-content/uploads/2020/08/medical-tubing-extrusion-line.jpg 700w" height="300" sizes="(max-width: 300px) 100vw, 300px" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="width: 205.406px; height: 205.406px;" title="Medical Tubing Extrusion Line" width="300"/>
+               <noscript>
+                <img alt="Medical Tubing Extrusion Line" class="attachment-medium size-medium wp-post-image lazyload" height="300" sizes="(max-width: 300px) 100vw, 300px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/medical-tubing-extrusion-line-300x300.jpg" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/medical-tubing-extrusion-line-300x300.jpg 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/medical-tubing-extrusion-line-150x150.jpg 150w, https://www.jfextruder.com/wp-content/uploads/2020/08/medical-tubing-extrusion-line-100x100.jpg 100w, https://www.jfextruder.com/wp-content/uploads/2020/08/medical-tubing-extrusion-line.jpg 700w" title="Medical Tubing Extrusion Line" width="300"/>
+               </noscript>
+              </div>
+             </div>
+            </div>
+            <i class="mask">
+            </i>
+           </div>
+           <figcaption>
+            <h3>
+             Medical Tubing Extrusion Line
+            </h3>
+           </figcaption>
+          </a>
+         </div>
+        </figure>
+        <figure class="item-content highlight">
+         <div class="item-grid-box">
+          <a href="https://www.jfextruder.com/product/plastic-tube-extrusion/">
+           <div class="item-cover">
+            <div class="attachment">
+             <div class="thumbnail">
+              <div class="centered">
+               <img alt="Plastic Tube Extrusion Line" class="attachment-medium size-medium wp-post-image lazyload" data-src="https://www.jfextruder.com/wp-content/uploads/2020/08/PLC-single-screw-extruder-300x225.jpg" data-srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/PLC-single-screw-extruder-300x225.jpg 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/PLC-single-screw-extruder-700x525.jpg 700w, https://www.jfextruder.com/wp-content/uploads/2020/08/PLC-single-screw-extruder-1024x768.jpg 1024w, https://www.jfextruder.com/wp-content/uploads/2020/08/PLC-single-screw-extruder-768x576.jpg 768w, https://www.jfextruder.com/wp-content/uploads/2020/08/PLC-single-screw-extruder-600x450.jpg 600w, https://www.jfextruder.com/wp-content/uploads/2020/08/PLC-single-screw-extruder.jpg 1440w" height="225" sizes="(max-width: 300px) 100vw, 300px" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="width: 205.406px; height: 205.406px;" title="Plastic Tube Extrusion Line" width="300"/>
+               <noscript>
+                <img alt="Plastic Tube Extrusion Line" class="attachment-medium size-medium wp-post-image lazyload" height="225" sizes="(max-width: 300px) 100vw, 300px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/PLC-single-screw-extruder-300x225.jpg" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/PLC-single-screw-extruder-300x225.jpg 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/PLC-single-screw-extruder-700x525.jpg 700w, https://www.jfextruder.com/wp-content/uploads/2020/08/PLC-single-screw-extruder-1024x768.jpg 1024w, https://www.jfextruder.com/wp-content/uploads/2020/08/PLC-single-screw-extruder-768x576.jpg 768w, https://www.jfextruder.com/wp-content/uploads/2020/08/PLC-single-screw-extruder-600x450.jpg 600w, https://www.jfextruder.com/wp-content/uploads/2020/08/PLC-single-screw-extruder.jpg 1440w" title="Plastic Tube Extrusion Line" width="300"/>
+               </noscript>
+              </div>
+             </div>
+            </div>
+            <i class="mask">
+            </i>
+           </div>
+           <figcaption>
+            <h3>
+             Plastic Tube Extrusion Line
+            </h3>
+           </figcaption>
+          </a>
+         </div>
+        </figure>
+        <figure class="item-content highlight">
+         <div class="item-grid-box">
+          <a href="https://www.jfextruder.com/product/pipe-extruder/">
+           <div class="item-cover">
+            <div class="attachment">
+             <div class="thumbnail">
+              <div class="centered">
+               <img alt="Pipe Extruder" class="attachment-medium size-medium wp-post-image lazyload" data-src="https://www.jfextruder.com/wp-content/uploads/2020/08/000-37430014_meitu_9-300x300.jpg" data-srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/000-37430014_meitu_9-300x300.jpg 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/000-37430014_meitu_9-150x150.jpg 150w, https://www.jfextruder.com/wp-content/uploads/2020/08/000-37430014_meitu_9-100x100.jpg 100w, https://www.jfextruder.com/wp-content/uploads/2020/08/000-37430014_meitu_9.jpg 700w" height="300" sizes="(max-width: 300px) 100vw, 300px" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="width: 205.406px; height: 205.406px;" title="Pipe Extruder" width="300"/>
+               <noscript>
+                <img alt="Pipe Extruder" class="attachment-medium size-medium wp-post-image lazyload" height="300" sizes="(max-width: 300px) 100vw, 300px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/000-37430014_meitu_9-300x300.jpg" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/000-37430014_meitu_9-300x300.jpg 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/000-37430014_meitu_9-150x150.jpg 150w, https://www.jfextruder.com/wp-content/uploads/2020/08/000-37430014_meitu_9-100x100.jpg 100w, https://www.jfextruder.com/wp-content/uploads/2020/08/000-37430014_meitu_9.jpg 700w" title="Pipe Extruder" width="300"/>
+               </noscript>
+              </div>
+             </div>
+            </div>
+            <i class="mask">
+            </i>
+           </div>
+           <figcaption>
+            <h3>
+             Pipe Extruder
+            </h3>
+           </figcaption>
+          </a>
+         </div>
+        </figure>
+        <figure class="item-content highlight">
+         <div class="item-grid-box">
+          <a href="https://www.jfextruder.com/product/profile-extruder/">
+           <div class="item-cover">
+            <div class="attachment">
+             <div class="thumbnail">
+              <div class="centered">
+               <img alt="Profile Extruder" class="attachment-medium size-medium wp-post-image lazyload" data-src="https://www.jfextruder.com/wp-content/uploads/2020/08/co-extrusion-300x300.jpg" data-srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/co-extrusion-300x300.jpg 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/co-extrusion-150x150.jpg 150w, https://www.jfextruder.com/wp-content/uploads/2020/08/co-extrusion-100x100.jpg 100w, https://www.jfextruder.com/wp-content/uploads/2020/08/co-extrusion.jpg 700w" height="300" sizes="(max-width: 300px) 100vw, 300px" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="width: 205.406px; height: 205.406px;" title="Profile Extruder" width="300"/>
+               <noscript>
+                <img alt="Profile Extruder" class="attachment-medium size-medium wp-post-image lazyload" height="300" sizes="(max-width: 300px) 100vw, 300px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/co-extrusion-300x300.jpg" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/co-extrusion-300x300.jpg 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/co-extrusion-150x150.jpg 150w, https://www.jfextruder.com/wp-content/uploads/2020/08/co-extrusion-100x100.jpg 100w, https://www.jfextruder.com/wp-content/uploads/2020/08/co-extrusion.jpg 700w" title="Profile Extruder" width="300"/>
+               </noscript>
+              </div>
+             </div>
+            </div>
+            <i class="mask">
+            </i>
+           </div>
+           <figcaption>
+            <h3>
+             Profile Extruder
+            </h3>
+           </figcaption>
+          </a>
+         </div>
+        </figure>
+       </div>
+      </div>
+     </div>
+    </section>
+    <section class="section-item section-editor" id="wewe-2">
+     <div class="inner">
+      <div class="section-container">
+       <div class="section-heading">
+        <h2 class="heading-title">
+         <b>
+          Why Us
+         </b>
+        </h2>
+       </div>
+       <div class="section-content">
+        <p>
+         <a href="https://www.jfextruder.com/single-screw-extruder-manufacturer/">
+          <img alt="PU tube extrusion line" class="wp-image-876 alignleft" height="417" src="https://www.jfextruder.com/wp-content/uploads/2020/09/PU-tube-extrusion-line.jpg" width="512"/>
+         </a>
+        </p>
+        <p>
+         Since 2008, Jinxin Machinery has been focusing on
+         <strong>
+          Single Screw
+         </strong>
+         polymer extrusion equipment manufacturing and improvements in precision extrusion.
+        </p>
+        <p>
+         Tube/Hose/Pipe/Profile | High Performance &amp; Factory direct price with CE certificate. New traceable brand components &amp; Global Warranty.
+        </p>
+        <p>
+         As a leading cost-effective but with excellent homogenization performance plastic extruder manufacturer, Whether you are an end-user, distributor, or importer, we are very happy to help you expand your business in the local market.
+        </p>
+        <ul>
+         <li>
+          Over 80 customers distributed in Europe, Asia, America, and Africa. 50% reordered in a short time
+         </li>
+         <li>
+          From before-sales consulting service to production and after-sales service, we will provide you a genuine turn-key project
+         </li>
+         <li>
+          Trusted by many well-known brands and purchased our machines. Easy to operate and extremely stable operation and capacity, maintain a good relationship with us
+         </li>
+        </ul>
+        <p>
+         <strong>
+          <a class="btn" href="https://www.jfextruder.com/single-screw-extruder-manufacturer/">
+           Read more
+          </a>
+         </strong>
+        </p>
+       </div>
+      </div>
+     </div>
+    </section>
+    <section class="section-item cat-thumb-title-posts" id="cat-thumb-title-posts-1">
+     <div class="inner">
+      <div class="section-container grid-col-3" data-radio="0.75">
+       <div class="section-heading">
+        <h2 class="heading-title">
+         <b>
+          <a href="https://www.jfextruder.com/news/" title="News">
+           News
+          </a>
+         </b>
+         <span class="link-more">
+          <a href="https://www.jfextruder.com/news/">
+           More
+          </a>
+         </span>
+        </h2>
+       </div>
+       <div class="section-content">
+        <ul class="thumb-title-list">
+         <li>
+          <div class="post-thumbnail">
+           <a href="https://www.jfextruder.com/plastic-extrusion-machine/" title="What is Plastic Extrusion Machine Line – Single Screw Type">
+            <div class="item-cover">
+             <div class="attachment">
+              <div class="thumbnail">
+               <div class="centered">
+                <img alt="What is Plastic Extrusion Machine Line – Single Screw Type" class="attachment-medium size-medium wp-post-image lazyload" data-src="https://www.jfextruder.com/wp-content/uploads/2020/10/d432457db860b2c120c582bb655ebd9a-300x153.jpeg" data-srcset="https://www.jfextruder.com/wp-content/uploads/2020/10/d432457db860b2c120c582bb655ebd9a-300x153.jpeg 300w, https://www.jfextruder.com/wp-content/uploads/2020/10/d432457db860b2c120c582bb655ebd9a.jpeg 531w" height="153" sizes="(max-width: 300px) 100vw, 300px" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="width: 419.703px; height: 314.777px;" title="What is Plastic Extrusion Machine Line – Single Screw Type" width="300"/>
+                <noscript>
+                 <img alt="What is Plastic Extrusion Machine Line – Single Screw Type" class="attachment-medium size-medium wp-post-image lazyload" height="153" sizes="(max-width: 300px) 100vw, 300px" src="https://www.jfextruder.com/wp-content/uploads/2020/10/d432457db860b2c120c582bb655ebd9a-300x153.jpeg" srcset="https://www.jfextruder.com/wp-content/uploads/2020/10/d432457db860b2c120c582bb655ebd9a-300x153.jpeg 300w, https://www.jfextruder.com/wp-content/uploads/2020/10/d432457db860b2c120c582bb655ebd9a.jpeg 531w" title="What is Plastic Extrusion Machine Line – Single Screw Type" width="300"/>
+                </noscript>
+               </div>
+              </div>
+             </div>
+             <i class="mask">
+             </i>
+            </div>
+           </a>
+          </div>
+          <div class="post-excerpt">
+           <h3>
+            <a href="https://www.jfextruder.com/plastic-extrusion-machine/" title="What is Plastic Extrusion Machine Line – Single Screw Type">
+             What is Plastic Extrusion Machine Line – Single Screw Type
+            </a>
+           </h3>
+           <div class="post-meta">
+            <span class="date">
+             <i class="fa fa-clock-o">
+             </i>
+             October 16, 2020
+            </span>
+            <a href="https://www.jfextruder.com/plastic-extrusion-machine/#comments">
+             <span class="comments">
+              <i class="fa fa-comment-o">
+              </i>
+              3 comments
+             </span>
+            </a>
+           </div>
+           <div class="opacity excerpt-content">
+            The extrusion line refers to a complete production line for extruding plastic raw materials to end-shape products. It consists of…
+           </div>
+           <div class="link-read-more">
+            <a href="https://www.jfextruder.com/plastic-extrusion-machine/" title="What is Plastic Extrusion Machine Line – Single Screw Type">
+             <span>
+              Read more
+             </span>
+             <i class="fa fa-angle-right">
+             </i>
+            </a>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div class="post-thumbnail">
+           <a href="https://www.jfextruder.com/single-screw-extruder-working-principle/" title="Single Screw Extruder Reviews">
+            <div class="item-cover">
+             <div class="attachment">
+              <div class="thumbnail">
+               <div class="centered">
+                <img alt="Single Screw Extruder Reviews" class="attachment-medium size-medium wp-post-image lazyload" data-src="https://www.jfextruder.com/wp-content/uploads/2020/08/Single-screw-extruder-drawing-300x188.jpg" data-srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/Single-screw-extruder-drawing-300x188.jpg 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/Single-screw-extruder-drawing.jpg 572w" height="188" sizes="(max-width: 300px) 100vw, 300px" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="width: 419.703px; height: 314.777px;" title="Single Screw Extruder Reviews" width="300"/>
+                <noscript>
+                 <img alt="Single Screw Extruder Reviews" class="attachment-medium size-medium wp-post-image lazyload" height="188" sizes="(max-width: 300px) 100vw, 300px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/Single-screw-extruder-drawing-300x188.jpg" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/Single-screw-extruder-drawing-300x188.jpg 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/Single-screw-extruder-drawing.jpg 572w" title="Single Screw Extruder Reviews" width="300"/>
+                </noscript>
+               </div>
+              </div>
+             </div>
+             <i class="mask">
+             </i>
+            </div>
+           </a>
+          </div>
+          <div class="post-excerpt">
+           <h3>
+            <a href="https://www.jfextruder.com/single-screw-extruder-working-principle/" title="Single Screw Extruder Reviews">
+             Single Screw Extruder Reviews
+            </a>
+           </h3>
+           <div class="post-meta">
+            <span class="date">
+             <i class="fa fa-clock-o">
+             </i>
+             August 27, 2020
+            </span>
+            <a href="https://www.jfextruder.com/single-screw-extruder-working-principle/#respond">
+             <span class="comments">
+              <i class="fa fa-comment-o">
+              </i>
+              No comments
+             </span>
+            </a>
+           </div>
+           <div class="opacity excerpt-content">
+            single screw extruder working principle, their specification and meanings.
+           </div>
+           <div class="link-read-more">
+            <a href="https://www.jfextruder.com/single-screw-extruder-working-principle/" title="Single Screw Extruder Reviews">
+             <span>
+              Read more
+             </span>
+             <i class="fa fa-angle-right">
+             </i>
+            </a>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div class="post-thumbnail">
+           <a href="https://www.jfextruder.com/plastic-extrusion-definition/" title="What is the Plastic Extrusion Definition">
+            <div class="item-cover">
+             <div class="attachment">
+              <div class="thumbnail">
+               <div class="centered">
+                <img alt="What is the Plastic Extrusion Definition" class="attachment-medium size-medium wp-post-image lazyload" data-src="https://www.jfextruder.com/wp-content/uploads/2020/08/extrison-line-300x78.jpg" data-srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/extrison-line-300x78.jpg 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/extrison-line-768x200.jpg 768w, https://www.jfextruder.com/wp-content/uploads/2020/08/extrison-line-700x182.jpg 700w, https://www.jfextruder.com/wp-content/uploads/2020/08/extrison-line.jpg 1024w" height="78" sizes="(max-width: 300px) 100vw, 300px" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="width: 419.703px; height: 314.777px;" title="What is the Plastic Extrusion Definition" width="300"/>
+                <noscript>
+                 <img alt="What is the Plastic Extrusion Definition" class="attachment-medium size-medium wp-post-image lazyload" height="78" sizes="(max-width: 300px) 100vw, 300px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/extrison-line-300x78.jpg" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/extrison-line-300x78.jpg 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/extrison-line-768x200.jpg 768w, https://www.jfextruder.com/wp-content/uploads/2020/08/extrison-line-700x182.jpg 700w, https://www.jfextruder.com/wp-content/uploads/2020/08/extrison-line.jpg 1024w" title="What is the Plastic Extrusion Definition" width="300"/>
+                </noscript>
+               </div>
+              </div>
+             </div>
+             <i class="mask">
+             </i>
+            </div>
+           </a>
+          </div>
+          <div class="post-excerpt">
+           <h3>
+            <a href="https://www.jfextruder.com/plastic-extrusion-definition/" title="What is the Plastic Extrusion Definition">
+             What is the Plastic Extrusion Definition
+            </a>
+           </h3>
+           <div class="post-meta">
+            <span class="date">
+             <i class="fa fa-clock-o">
+             </i>
+             August 27, 2020
+            </span>
+            <a href="https://www.jfextruder.com/plastic-extrusion-definition/#respond">
+             <span class="comments">
+              <i class="fa fa-comment-o">
+              </i>
+              No comments
+             </span>
+            </a>
+           </div>
+           <div class="opacity excerpt-content">
+            1. Plastic Extrusion Definition Plastic extrusion is a widely used manufacturing process in the modern industry, and it is can be…
+           </div>
+           <div class="link-read-more">
+            <a href="https://www.jfextruder.com/plastic-extrusion-definition/" title="What is the Plastic Extrusion Definition">
+             <span>
+              Read more
+             </span>
+             <i class="fa fa-angle-right">
+             </i>
+            </a>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div class="post-thumbnail">
+           <a href="https://www.jfextruder.com/gravimetric-dosing-controller/" title="Gravimetric Dosing Controller Ideas">
+            <div class="item-cover">
+             <div class="attachment">
+              <div class="thumbnail">
+               <div class="centered">
+                <img alt="Gravimetric Dosing Controller Ideas" class="attachment-medium size-medium wp-post-image lazyload" data-src="https://www.jfextruder.com/wp-content/uploads/2020/08/15791649821-300x170.png" data-srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/15791649821-300x170.png 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/15791649821-768x434.png 768w, https://www.jfextruder.com/wp-content/uploads/2020/08/15791649821-700x396.png 700w, https://www.jfextruder.com/wp-content/uploads/2020/08/15791649821.png 824w" height="170" sizes="(max-width: 300px) 100vw, 300px" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="width: 419.703px; height: 314.777px;" title="Gravimetric Dosing Controller Ideas" width="300"/>
+                <noscript>
+                 <img alt="Gravimetric Dosing Controller Ideas" class="attachment-medium size-medium wp-post-image lazyload" height="170" sizes="(max-width: 300px) 100vw, 300px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/15791649821-300x170.png" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/15791649821-300x170.png 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/15791649821-768x434.png 768w, https://www.jfextruder.com/wp-content/uploads/2020/08/15791649821-700x396.png 700w, https://www.jfextruder.com/wp-content/uploads/2020/08/15791649821.png 824w" title="Gravimetric Dosing Controller Ideas" width="300"/>
+                </noscript>
+               </div>
+              </div>
+             </div>
+             <i class="mask">
+             </i>
+            </div>
+           </a>
+          </div>
+          <div class="post-excerpt">
+           <h3>
+            <a href="https://www.jfextruder.com/gravimetric-dosing-controller/" title="Gravimetric Dosing Controller Ideas">
+             Gravimetric Dosing Controller Ideas
+            </a>
+           </h3>
+           <div class="post-meta">
+            <span class="date">
+             <i class="fa fa-clock-o">
+             </i>
+             August 27, 2020
+            </span>
+            <a href="https://www.jfextruder.com/gravimetric-dosing-controller/#respond">
+             <span class="comments">
+              <i class="fa fa-comment-o">
+              </i>
+              No comments
+             </span>
+            </a>
+           </div>
+           <div class="opacity excerpt-content">
+            Gravimetric Dosing Controller Ideas What is gravimetric dosing controller? The gravimetric dosing controller also called the gravimetric feeding system. It…
+           </div>
+           <div class="link-read-more">
+            <a href="https://www.jfextruder.com/plastic-extrusion-machine/" title="What is Plastic Extrusion Machine Line – Single Screw Type">
+             <span>
+              Read more
+             </span>
+             <i class="fa fa-angle-right">
+             </i>
+            </a>
+           </div>
+          </div>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+    </section>
+    <section class="section-item section-editor" id="wewe-3">
+     <div class="inner">
+      <div class="section-container">
+       <div class="section-heading">
+        <h2 class="heading-title">
+         <b>
+          Clients and Our Partners
+         </b>
+        </h2>
+       </div>
+       <div class="section-content">
+        <div class="pop-slider">
+         <div class="pop-gallery-slider pop-gallery-slider-6 carousel-horizontal swiper-container-initialized swiper-container-horizontal" data-delay="2800" data-grid="6" data-group="6">
+          <div class="gallery galleryid-1321 gallery-columns-6 gallery-size-thumbnail swiper-wrapper" id="gallery-3" style="transform: translate3d(-876px, 0px, 0px); transition-duration: 0ms;">
+           <figure class="gallery-item swiper-slide swiper-slide-duplicate" data-swiper-slide-index="9" style="width: 209px; margin-right: 10px;">
+            <div class="gallery-icon landscape">
+             <img alt="omron logo" class="attachment-thumbnail size-thumbnail" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-6-150x150.png" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-6-150x150.png 150w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-6-300x300.png 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-6-100x100.png 100w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-6.png 500w" width="150"/>
+            </div>
+           </figure>
+           <figure class="gallery-item swiper-slide swiper-slide-duplicate" data-swiper-slide-index="10" style="width: 209px; margin-right: 10px;">
+            <div class="gallery-icon landscape">
+             <img alt="RKC logo" class="attachment-thumbnail size-thumbnail" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-5-150x150.png" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-5-150x150.png 150w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-5-300x300.png 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-5-100x100.png 100w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-5.png 500w" width="150"/>
+            </div>
+           </figure>
+           <figure class="gallery-item swiper-slide swiper-slide-duplicate" data-swiper-slide-index="11" style="width: 209px; margin-right: 10px;">
+            <div class="gallery-icon landscape">
+             <img alt="schneider logo" class="attachment-thumbnail size-thumbnail" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-4-150x150.png" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-4-150x150.png 150w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-4-300x300.png 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-4-100x100.png 100w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-4.png 500w" width="150"/>
+            </div>
+           </figure>
+           <figure class="gallery-item swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="12" style="width: 209px; margin-right: 10px;">
+            <div class="gallery-icon landscape">
+             <img alt="ABB LOGO" class="attachment-thumbnail size-thumbnail" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-1-150x150.png" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-1-150x150.png 150w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-1-300x300.png 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-1-100x100.png 100w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-1.png 500w" width="150"/>
+            </div>
+           </figure>
+           <figure class="gallery-item swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 209px; margin-right: 10px;">
+            <div class="gallery-icon landscape">
+             <img alt="SAMSUNG LOGO" class="attachment-thumbnail size-thumbnail" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-2-150x150.png" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-2-150x150.png 150w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-2-300x300.png 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-2-100x100.png 100w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-2.png 500w" width="150"/>
+            </div>
+           </figure>
+           <figure class="gallery-item swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="width: 209px; margin-right: 10px;">
+            <div class="gallery-icon landscape">
+             <img alt="China Railway High speed logo" class="attachment-thumbnail size-thumbnail" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/China-Railway-H-1-150x150.png" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/China-Railway-H-1-150x150.png 150w, https://www.jfextruder.com/wp-content/uploads/2020/08/China-Railway-H-1-300x300.png 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/China-Railway-H-1-100x100.png 100w, https://www.jfextruder.com/wp-content/uploads/2020/08/China-Railway-H-1.png 500w" width="150"/>
+            </div>
+           </figure>
+           <figure class="gallery-item swiper-slide" data-swiper-slide-index="2" style="width: 209px; margin-right: 10px;">
+            <div class="gallery-icon landscape">
+             <img alt="honda logo" class="attachment-thumbnail size-thumbnail" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/China-Railway-H-4-1-150x150.png" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/China-Railway-H-4-1-150x150.png 150w, https://www.jfextruder.com/wp-content/uploads/2020/08/China-Railway-H-4-1-300x300.png 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/China-Railway-H-4-1-100x100.png 100w, https://www.jfextruder.com/wp-content/uploads/2020/08/China-Railway-H-4-1.png 500w" width="150"/>
+            </div>
+           </figure>
+           <figure class="gallery-item swiper-slide" data-swiper-slide-index="3" style="width: 209px; margin-right: 10px;">
+            <div class="gallery-icon landscape">
+             <img alt="siemens logo" class="attachment-thumbnail size-thumbnail" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-3-150x150.png" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-3-150x150.png 150w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-3-300x300.png 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-3-100x100.png 100w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-3.png 500w" width="150"/>
+            </div>
+           </figure>
+           <figure class="gallery-item swiper-slide" data-swiper-slide-index="4" style="width: 209px; margin-right: 10px;">
+            <div class="gallery-icon landscape">
+             <img alt="fotek logo" class="attachment-thumbnail size-thumbnail" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-8-150x150.png" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-8-150x150.png 150w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-8-300x300.png 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-8-100x100.png 100w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-8.png 500w" width="150"/>
+            </div>
+           </figure>
+           <figure class="gallery-item swiper-slide" data-swiper-slide-index="5" style="width: 209px; margin-right: 10px;">
+            <div class="gallery-icon landscape">
+             <img alt="porex logo" class="attachment-thumbnail size-thumbnail" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/China-Railway-H-2-1-150x150.png" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/China-Railway-H-2-1-150x150.png 150w, https://www.jfextruder.com/wp-content/uploads/2020/08/China-Railway-H-2-1-300x300.png 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/China-Railway-H-2-1-100x100.png 100w, https://www.jfextruder.com/wp-content/uploads/2020/08/China-Railway-H-2-1.png 500w" width="150"/>
+            </div>
+           </figure>
+           <figure class="gallery-item swiper-slide" data-swiper-slide-index="6" style="width: 209px; margin-right: 10px;">
+            <div class="gallery-icon landscape">
+             <img alt="idec logo" class="attachment-thumbnail size-thumbnail" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-9-1-150x150.png" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-9-1-150x150.png 150w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-9-1-300x300.png 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-9-1-100x100.png 100w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-9-1.png 500w" width="150"/>
+            </div>
+           </figure>
+           <figure class="gallery-item swiper-slide" data-swiper-slide-index="7" style="width: 209px; margin-right: 10px;">
+            <div class="gallery-icon landscape">
+             <img alt="wecon logo" class="attachment-thumbnail size-thumbnail" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-150x150.png" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-150x150.png 150w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-300x300.png 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-100x100.png 100w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计.png 500w" width="150"/>
+            </div>
+           </figure>
+           <figure class="gallery-item swiper-slide" data-swiper-slide-index="8" style="width: 209px; margin-right: 10px;">
+            <div class="gallery-icon landscape">
+             <img alt="delta logo" class="attachment-thumbnail size-thumbnail" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-7-150x150.png" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-7-150x150.png 150w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-7-300x300.png 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-7-100x100.png 100w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-7.png 500w" width="150"/>
+            </div>
+           </figure>
+           <figure class="gallery-item swiper-slide" data-swiper-slide-index="9" style="width: 209px; margin-right: 10px;">
+            <div class="gallery-icon landscape">
+             <img alt="omron logo" class="attachment-thumbnail size-thumbnail" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-6-150x150.png" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-6-150x150.png 150w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-6-300x300.png 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-6-100x100.png 100w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-6.png 500w" width="150"/>
+            </div>
+           </figure>
+           <figure class="gallery-item swiper-slide" data-swiper-slide-index="10" style="width: 209px; margin-right: 10px;">
+            <div class="gallery-icon landscape">
+             <img alt="RKC logo" class="attachment-thumbnail size-thumbnail" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-5-150x150.png" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-5-150x150.png 150w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-5-300x300.png 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-5-100x100.png 100w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-5.png 500w" width="150"/>
+            </div>
+           </figure>
+           <figure class="gallery-item swiper-slide" data-swiper-slide-index="11" style="width: 209px; margin-right: 10px;">
+            <div class="gallery-icon landscape">
+             <img alt="schneider logo" class="attachment-thumbnail size-thumbnail" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-4-150x150.png" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-4-150x150.png 150w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-4-300x300.png 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-4-100x100.png 100w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-4.png 500w" width="150"/>
+            </div>
+           </figure>
+           <figure class="gallery-item swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="12" style="width: 209px; margin-right: 10px;">
+            <div class="gallery-icon landscape">
+             <img alt="ABB LOGO" class="attachment-thumbnail size-thumbnail" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-1-150x150.png" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-1-150x150.png 150w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-1-300x300.png 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-1-100x100.png 100w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-1.png 500w" width="150"/>
+            </div>
+           </figure>
+           <figure class="gallery-item swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 209px; margin-right: 10px;">
+            <div class="gallery-icon landscape">
+             <img alt="SAMSUNG LOGO" class="attachment-thumbnail size-thumbnail" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-2-150x150.png" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-2-150x150.png 150w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-2-300x300.png 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-2-100x100.png 100w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-2.png 500w" width="150"/>
+            </div>
+           </figure>
+           <figure class="gallery-item swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="1" style="width: 209px; margin-right: 10px;">
+            <div class="gallery-icon landscape">
+             <img alt="China Railway High speed logo" class="attachment-thumbnail size-thumbnail" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/China-Railway-H-1-150x150.png" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/China-Railway-H-1-150x150.png 150w, https://www.jfextruder.com/wp-content/uploads/2020/08/China-Railway-H-1-300x300.png 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/China-Railway-H-1-100x100.png 100w, https://www.jfextruder.com/wp-content/uploads/2020/08/China-Railway-H-1.png 500w" width="150"/>
+            </div>
+           </figure>
+           <figure class="gallery-item swiper-slide swiper-slide-duplicate" data-swiper-slide-index="2" style="width: 209px; margin-right: 10px;">
+            <div class="gallery-icon landscape">
+             <img alt="honda logo" class="attachment-thumbnail size-thumbnail" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/China-Railway-H-4-1-150x150.png" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/China-Railway-H-4-1-150x150.png 150w, https://www.jfextruder.com/wp-content/uploads/2020/08/China-Railway-H-4-1-300x300.png 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/China-Railway-H-4-1-100x100.png 100w, https://www.jfextruder.com/wp-content/uploads/2020/08/China-Railway-H-4-1.png 500w" width="150"/>
+            </div>
+           </figure>
+           <figure class="gallery-item swiper-slide swiper-slide-duplicate" data-swiper-slide-index="3" style="width: 209px; margin-right: 10px;">
+            <div class="gallery-icon landscape">
+             <img alt="siemens logo" class="attachment-thumbnail size-thumbnail" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-3-150x150.png" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-3-150x150.png 150w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-3-300x300.png 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-3-100x100.png 100w, https://www.jfextruder.com/wp-content/uploads/2020/08/未命名的设计-3.png 500w" width="150"/>
+            </div>
+           </figure>
+          </div>
+          <div class="swiper-pagination pop-swiper-pagination swiper-pagination-clickable swiper-pagination-bullets">
+           <span aria-label="1" class="swiper-pagination-bullet swiper-pagination-bullet-active" role="button" tabindex="0">
+           </span>
+           <span aria-label="2" class="swiper-pagination-bullet" role="button" tabindex="0">
+           </span>
+           <span aria-label="3" class="swiper-pagination-bullet" role="button" tabindex="0">
+           </span>
+           <span aria-label="4" class="swiper-pagination-bullet" role="button" tabindex="0">
+           </span>
+          </div>
+          <span aria-atomic="true" aria-live="assertive" class="swiper-notification">
+          </span>
+         </div>
+         <div aria-label="Prev" class="swiper-button-prev pop-swiper-button-prev" role="button" tabindex="0">
+         </div>
+         <div aria-label="Next" class="swiper-button-next pop-swiper-button-next" role="button" tabindex="0">
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </section>
+   </div>
+   <footer class="footer" itemscope="" itemtype="//schema.org/WPFooter">
+    <div class="inner footer-widgets-area">
+     <div class="foot-widgets">
+      <section class="widget widget_text" id="text-4">
+       <h3 class="widget-title">
+        JF Plastic Extrusion Machinery
+       </h3>
+       <div class="textwidget">
+        <p>
+         <img alt="" class="alignnone size-medium wp-image-256 lazyload" data-src="https://www.jfextruder.com/wp-content/uploads/2020/08/logo-300x151.png" height="151" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="300"/>
+        </p>
+        <noscript>
+         <img alt="" class="alignnone size-medium wp-image-256 lazyload" height="151" sizes="(max-width: 300px) 100vw, 300px" src="https://www.jfextruder.com/wp-content/uploads/2020/08/logo-300x151.png" srcset="https://www.jfextruder.com/wp-content/uploads/2020/08/logo-300x151.png 300w, https://www.jfextruder.com/wp-content/uploads/2020/08/logo-700x352.png 700w, https://www.jfextruder.com/wp-content/uploads/2020/08/logo-1024x514.png 1024w, https://www.jfextruder.com/wp-content/uploads/2020/08/logo-768x386.png 768w, https://www.jfextruder.com/wp-content/uploads/2020/08/logo-600x301.png 600w, https://www.jfextruder.com/wp-content/uploads/2020/08/logo.png 1378w" width="300"/>
+        </noscript>
+        <p>
+         Single Screw Extruder Manufacturer and Combo Trader. Especially in complete precision Tube, Pipe, Profile, and Reinforced Hose Pipe Extrusion Line.
+        </p>
+       </div>
+      </section>
+      <section class="widget widget_text" id="text-5">
+       <h3 class="widget-title">
+        QUICK LINKS
+       </h3>
+       <div class="textwidget">
+        <p>
+         <a href="/single-screw-extruder-manufacturer/">
+          About Us
+         </a>
+        </p>
+        <p>
+         <a href="https://www.jfextruder.com/product/">
+          Products
+         </a>
+        </p>
+        <p>
+         <a href="/news">
+          News
+         </a>
+        </p>
+        <p>
+         <a href="https://www.jfextruder.com/customers/">
+          Customers
+         </a>
+        </p>
+        <p>
+         <a href="/contact">
+          Contact
+         </a>
+        </p>
+        <p>
+         <a href="/privacy-policy">
+          Privacy Policy
+         </a>
+        </p>
+       </div>
+      </section>
+      <section class="widget widget_text" id="text-6">
+       <h3 class="widget-title">
+        PRODUCTS
+       </h3>
+       <div class="textwidget">
+        <p>
+         <a href="https://www.jfextruder.com/extruders-downstream-machines/">
+          Extruders &amp; Downstream Machines
+         </a>
+        </p>
+        <p>
+         <a href="https://www.jfextruder.com/extrusion-lines/">
+          Extrusion Lines
+         </a>
+        </p>
+        <p>
+         <a href="https://www.jfextruder.com/infrastructure-use/">
+          Infrastructure Use
+         </a>
+        </p>
+        <p>
+         <a href="https://www.jfextruder.com/packaging-use/">
+          Packaging Use
+         </a>
+        </p>
+        <p>
+         <a href="https://www.jfextruder.com/lighting-use/">
+          Lighting Use
+         </a>
+        </p>
+        <p>
+         <a href="https://www.jfextruder.com/high-pressure-pipe/">
+          High Pressure Pipe
+         </a>
+        </p>
+        <p>
+         <a href="https://www.jfextruder.com/medical-use/">
+          Medical Use
+         </a>
+        </p>
+        <p>
+         <a href="https://www.jfextruder.com/pneumatics-and-automobile-tubing/">
+          Pneumatics and Automobile Tubing
+         </a>
+         <span class="plus-minus">
+         </span>
+        </p>
+       </div>
+      </section>
+      <section class="widget widget_text" id="text-7">
+       <h3 class="widget-title">
+        CONTACT US
+       </h3>
+       <div class="textwidget">
+        <p>
+         <strong>
+          Phone:
+         </strong>
+         +86 571 58110077
+        </p>
+        <p>
+         <strong>
+          E-mail:
+         </strong>
+         <a href="mailto:sales@jfextruder.com">
+          sales@jfextruder.com
+         </a>
+        </p>
+        <p>
+         <strong>
+          Address
+         </strong>
+         : No.262 Wantang Rd. Hangzhou, China
+        </p>
+       </div>
+      </section>
+     </div>
+    </div>
+    <div class="foot-bar">
+     <div class="inner">
+      <div class="foot-bar-lt">
+       <p>
+        Copyright © 2020
+        <a href="https://www.jfextruder.com/">
+         JF Extrusion Machinery
+        </a>
+        All Rights Reserved.
+       </p>
+       <p>
+        <a href="/single-screw-extruder-manufacturer/">
+         About Us
+        </a>
+        <a href="/contact/">
+         Contact Us
+        </a>
+        <a href="https://www.jfextruder.com/sitemaps.xml">
+         Sitemaps
+        </a>
+       </p>
+       <div class="social-networks flt">
+        <div class="social-container social-network-container">
+         <div class="flex">
+          <a href="https://www.facebook.com/Jinxin-Plastic-Machinery-Firerymed-100983974866582" target="_blank" title="Facebook">
+           <svg class="icon-socialmedia wppop-icon-facebook" fill="rgb(255, 255, 255)" height="24" role="img" version="1.1" viewbox="0 0 32 32" width="24" xmlns="http://www.w3.org/2000/svg">
+            <title id="svg-facebook">
+             Facebook
+            </title>
+            <link crossorigin="" href="https://fonts.gstatic.com/" rel="preconnect"/>
+            <style type="text/css">
+             @font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 100;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUOjIg1_i6t8kCHKm459WxZqh7k29Y.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 200;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZBg_z_PZ1.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 300;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZYgzz_PZ1.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 400;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUQjIg1_i6t8kCHKm459WxRyS7j.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 500;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZOg3z_PZ1.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 600;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZFgrz_PZ1.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 700;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZcgvz_PZ1.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 800;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZbgjz_PZ1.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 900;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZSgnz_PZ1.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 100;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUQjIg1_i6t8kCHKm45_QpRyS7j.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 200;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_aZA3gnD-w.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 300;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_cJD3gnD-w.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 400;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 500;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_ZpC3gnD-w.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 600;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_bZF3gnD-w.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 700;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 800;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_c5H3gnD-w.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 900;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_epG3gnD-w.ttf) format('truetype');
+}
+            </style>
+            <link as="font" crossorigin="" href="https://www.jfextruder.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2" rel="preload"/>
+            <link as="font" crossorigin="" href="https://www.jfextruder.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2" rel="preload"/>
+            <link as="font" crossorigin="" href="https://www.jfextruder.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0" rel="preload"/>
+            <link href="https://www.jfextruder.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-21973cf6ad012d180fa6d86be760173e.css" id="siteground-optimizer-combined-css-21973cf6ad012d180fa6d86be760173e" media="all" rel="stylesheet"/>
+            <path d="M22 5.16c-.406-.054-1.806-.16-3.43-.16-3.4 0-5.733 1.825-5.733 5.17v2.882H9v3.913h3.837V27h4.604V16.965h3.823l.587-3.913h-4.41v-2.5c0-1.123.347-1.903 2.198-1.903H22V5.16z">
+            </path>
+           </svg>
+          </a>
+          <a href="https://www.linkedin.com/company/hangzhou-firerymed-trading-co-ltd/about/?viewAsMember=true" target="_blank" title="LinkedIn">
+           <svg class="icon-socialmedia wppop-icon-linkedin" fill="rgb(255, 255, 255)" height="24" role="img" version="1.1" viewbox="0 0 32 32" width="24" xmlns="http://www.w3.org/2000/svg">
+            <title id="svg-linkedin">
+             LinkedIn
+            </title>
+            <link crossorigin="" href="https://fonts.gstatic.com/" rel="preconnect"/>
+            <style type="text/css">
+             @font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 100;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUOjIg1_i6t8kCHKm459WxZqh7k29Y.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 200;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZBg_z_PZ1.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 300;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZYgzz_PZ1.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 400;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUQjIg1_i6t8kCHKm459WxRyS7j.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 500;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZOg3z_PZ1.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 600;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZFgrz_PZ1.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 700;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZcgvz_PZ1.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 800;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZbgjz_PZ1.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 900;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZSgnz_PZ1.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 100;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUQjIg1_i6t8kCHKm45_QpRyS7j.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 200;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_aZA3gnD-w.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 300;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_cJD3gnD-w.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 400;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 500;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_ZpC3gnD-w.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 600;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_bZF3gnD-w.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 700;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 800;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_c5H3gnD-w.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 900;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_epG3gnD-w.ttf) format('truetype');
+}
+            </style>
+            <link as="font" crossorigin="" href="https://www.jfextruder.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2" rel="preload"/>
+            <link as="font" crossorigin="" href="https://www.jfextruder.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2" rel="preload"/>
+            <link as="font" crossorigin="" href="https://www.jfextruder.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0" rel="preload"/>
+            <link href="https://www.jfextruder.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-21973cf6ad012d180fa6d86be760173e.css" id="siteground-optimizer-combined-css-21973cf6ad012d180fa6d86be760173e" media="all" rel="stylesheet"/>
+            <path d="M26 25.963h-4.185v-6.55c0-1.56-.027-3.57-2.175-3.57-2.18 0-2.51 1.7-2.51 3.46v6.66h-4.182V12.495h4.012v1.84h.058c.558-1.058 1.924-2.174 3.96-2.174 4.24 0 5.022 2.79 5.022 6.417v7.386zM8.23 10.655a2.426 2.426 0 0 1 0-4.855 2.427 2.427 0 0 1 0 4.855zm-2.098 1.84h4.19v13.468h-4.19V12.495z" fill-rule="evenodd">
+            </path>
+           </svg>
+          </a>
+          <a href="https://www.youtube.com/playlist?list=PLeGR8jnxTMrJlCqHInPoLHKo5A9bm3dq8" target="_blank" title="YouTube">
+           <svg class="icon-socialmedia wppop-icon-youtube" fill="rgb(255, 255, 255)" height="24" role="img" version="1.1" viewbox="0 0 32 32" width="24" xmlns="http://www.w3.org/2000/svg">
+            <title id="svg-youtube">
+             YouTube
+            </title>
+            <link crossorigin="" href="https://fonts.gstatic.com/" rel="preconnect"/>
+            <style type="text/css">
+             @font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 100;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUOjIg1_i6t8kCHKm459WxZqh7k29Y.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 200;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZBg_z_PZ1.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 300;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZYgzz_PZ1.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 400;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUQjIg1_i6t8kCHKm459WxRyS7j.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 500;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZOg3z_PZ1.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 600;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZFgrz_PZ1.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 700;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZcgvz_PZ1.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 800;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZbgjz_PZ1.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: italic;
+ font-weight: 900;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUPjIg1_i6t8kCHKm459WxZSgnz_PZ1.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 100;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUQjIg1_i6t8kCHKm45_QpRyS7j.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 200;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_aZA3gnD-w.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 300;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_cJD3gnD-w.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 400;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 500;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_ZpC3gnD-w.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 600;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_bZF3gnD-w.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 700;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 800;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_c5H3gnD-w.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Montserrat';
+ font-style: normal;
+ font-weight: 900;
+ font-display: swap;
+ src: url(https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_epG3gnD-w.ttf) format('truetype');
+}
+            </style>
+            <link as="font" crossorigin="" href="https://www.jfextruder.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2" rel="preload"/>
+            <link as="font" crossorigin="" href="https://www.jfextruder.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2" rel="preload"/>
+            <link as="font" crossorigin="" href="https://www.jfextruder.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0" rel="preload"/>
+            <link href="https://www.jfextruder.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-21973cf6ad012d180fa6d86be760173e.css" id="siteground-optimizer-combined-css-21973cf6ad012d180fa6d86be760173e" media="all" rel="stylesheet"/>
+            <path d="M23.415 7.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z">
+            </path>
+           </svg>
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </footer>
+   <div class="message-form-box">
+    <div class="message-header radius-top">
+     <span class="label">
+      <i class="fa fa-comments">
+      </i>
+     </span>
+     <b>
+      Leave a message
+     </b>
+     <span class="arrow-toggle">
+      <i class="fa fa-angle-up">
+      </i>
+     </span>
+    </div>
+    <div class="message-form">
+     <p>
+     </p>
+     <div class="wpcf7" dir="ltr" id="wpcf7-f2187-o1" lang="en-US" role="form">
+      <div class="screen-reader-response">
+       <p aria-atomic="true" aria-live="polite" role="status">
+       </p>
+       <ul>
+       </ul>
+      </div>
+      <form action="/#wpcf7-f2187-o1" class="wpcf7-form init" data-status="init" method="post" novalidate="novalidate">
+       <div style="display: none;">
+        <input name="_wpcf7" type="hidden" value="2187"/>
+        <input name="_wpcf7_version" type="hidden" value="5.3.2"/>
+        <input name="_wpcf7_locale" type="hidden" value="en_US"/>
+        <input name="_wpcf7_unit_tag" type="hidden" value="wpcf7-f2187-o1"/>
+        <input name="_wpcf7_container_post" type="hidden" value="0"/>
+        <input name="_wpcf7_posted_data_hash" type="hidden" value=""/>
+       </div>
+       <p>
+        <span class="wpcf7-form-control-wrap your-name">
+         <input aria-invalid="false" aria-required="true" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" id="your-name" name="your-name" placeholder="Your Name (required)" size="40" type="text" value=""/>
+        </span>
+       </p>
+       <p>
+        <span class="wpcf7-form-control-wrap your-email">
+         <input aria-invalid="false" aria-required="true" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" id="your-email" name="your-email" placeholder="Your Email (required)" size="40" type="email" value=""/>
+        </span>
+       </p>
+       <p>
+        <span class="wpcf7-form-control-wrap your-subject">
+         <input aria-invalid="false" class="wpcf7-form-control wpcf7-text" id="your-subject" name="your-subject" placeholder="Your Subject" size="40" type="text" value=""/>
+        </span>
+       </p>
+       <p>
+        <span class="wpcf7-form-control-wrap your-message">
+         <textarea aria-invalid="false" aria-required="true" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" cols="40" id="your-message" name="your-message" placeholder="Please fill in the details" rows="10"></textarea>
+        </span>
+       </p>
+       <p class="btn-submit">
+        <input class="wpcf7-form-control wpcf7-submit" type="submit" value="Submit"/>
+        <span class="ajax-loader">
+        </span>
+       </p>
+       <div aria-hidden="true" class="wpcf7-response-output">
+       </div>
+      </form>
+     </div>
+     <p>
+     </p>
+    </div>
+   </div>
+   <script>
+    // Used by Gallery Custom Links to handle tenacious Lightboxes
+ jQuery(document).ready(function () {  function mgclInit() {
+ if (jQuery.fn.off) {
+ jQuery('.no-lightbox, .no-lightbox img').off('click'); // jQuery 1.7+
+ }
+ else {
+ jQuery('.no-lightbox, .no-lightbox img').unbind('click'); // < jQuery 1.7
+ }
+ jQuery('a.no-lightbox').click(mgclOnClick);  if (jQuery.fn.off) {
+ jQuery('a.set-target').off('click'); // jQuery 1.7+
+ }
+ else {
+ jQuery('a.set-target').unbind('click'); // < jQuery 1.7
+ }
+ jQuery('a.set-target').click(mgclOnClick);
+ }  function mgclOnClick() {
+ if (!this.target || this.target == '' || this.target == '_self')
+ window.location = this.href;
+ else
+ window.open(this.href,this.target);
+ return false;
+ }  // From WP Gallery Custom Links
+ // Reduce the number of  conflicting lightboxes
+ function mgclAddLoadEvent(func) {
+ var oldOnload = window.onload;
+ if (typeof window.onload != 'function') {
+ window.onload = func;
+ } else {
+ window.onload = function() {
+ oldOnload();
+ func();
+ }
+ }
+ }  mgclAddLoadEvent(mgclInit);
+ mgclInit();  });
+   </script>
+   <script id="contact-form-7-js-extra" type="text/javascript">
+    /* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.jfextruder.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+   </script>
+   <script defer="" id="contact-form-7-js" src="https://www.jfextruder.com/wp-content/uploads/siteground-optimizer-assets/contact-form-7.min.js" type="text/javascript">
+   </script>
+   <script defer="" id="siteground-optimizer-lazy-sizes-js-js" src="https://www.jfextruder.com/wp-content/plugins/sg-cachepress/assets/js/lazysizes.min.js" type="text/javascript">
+   </script>
+   <script defer="" id="swiper-js" src="https://www.jfextruder.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js" type="text/javascript">
+   </script>
+   <script defer="" id="fancybox-js" src="https://www.jfextruder.com/wp-content/themes/WPPOP/assets/fancybox/jquery.fancybox.min.js" type="text/javascript">
+   </script>
+   <script id="wp-embed-js" src="https://www.jfextruder.com/wp-includes/js/wp-embed.min.js" type="text/javascript">
+   </script>
+   <script id="imagesloaded-js" src="https://www.jfextruder.com/wp-includes/js/imagesloaded.min.js" type="text/javascript">
+   </script>
+   <script id="font-awesome-4-shim-js" src="https://www.jfextruder.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js" type="text/javascript">
+   </script>
+   <script id="elementor-webpack-runtime-js" src="https://www.jfextruder.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js" type="text/javascript">
+   </script>
+   <script id="elementor-frontend-modules-js" src="https://www.jfextruder.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js" type="text/javascript">
+   </script>
+   <script id="elementor-sticky-js" src="https://www.jfextruder.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js" type="text/javascript">
+   </script>
+   <script id="elementor-pro-frontend-js-before" type="text/javascript">
+    var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.jfextruder.com\/wp-admin\/admin-ajax.php","nonce":"2dee4207eb","i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.jfextruder.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+   </script>
+   <script id="elementor-pro-frontend-js" src="https://www.jfextruder.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js" type="text/javascript">
+   </script>
+   <script id="jquery-ui-core-js" src="https://www.jfextruder.com/wp-includes/js/jquery/ui/core.min.js" type="text/javascript">
+   </script>
+   <script id="elementor-dialog-js" src="https://www.jfextruder.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js" type="text/javascript">
+   </script>
+   <script id="elementor-waypoints-js" src="https://www.jfextruder.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js" type="text/javascript">
+   </script>
+   <script id="share-link-js" src="https://www.jfextruder.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js" type="text/javascript">
+   </script>
+   <script id="elementor-frontend-js-before" type="text/javascript">
+    var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false,"isImprovedAssetsLoading":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"3.1.1","is_static":false,"experimentalFeatures":[],"urls":{"assets":"https:\/\/www.jfextruder.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":0,"title":"Plastic Precision Single Screw Extruder Manufacturer in China - JF Extrusion Machinery","excerpt":""}};
+   </script>
+   <script id="elementor-frontend-js" src="https://www.jfextruder.com/wp-content/plugins/elementor/assets/js/frontend.min.js" type="text/javascript">
+   </script>
+   <script id="preloaded-elements-handlers-js" src="https://www.jfextruder.com/wp-content/plugins/elementor/assets/js/preloaded-elements-handlers.min.js" type="text/javascript">
+   </script>
+   <script type="text/javascript">
+   </script>
+   <!--[if lt IE 9]> <script type="text/javascript" src="https://www.jfextruder.com/wp-content/themes/WPPOP/assets/js/respond.js"></script> <script type="text/javascript" src="https://www.jfextruder.com/wp-content/themes/WPPOP/assets/js/html5.js"></script> <style type="text/css"> #warning-browser{width:100%;height:60px;text-align:center;line-height:60px;color:#f00;background:#ff9;position:fixed;_position:absolute;top:0;z-index:99999;}
+ #warning-browser a{text-decoration:underline} </style><div id="warning-browser"><p>Your IE browser is too old. For a better access experience, Please use <a href="https://www.google.com/chrome/" target="_blank" rel="nofollow">Chrome browser</a> or upgrading <a href="https://www.microsoft.com/en-us/download/internet-explorer.aspx" target="_blank" rel="nofollow">IE browser</a>.</p></div> <![endif]-->
+   <a class="back-to-top ease radius" rel="nofollow" title="Scroll to top">
+    <i class="fa fa-angle-up">
+    </i>
+   </a>
+  </div>
+  <span class="elementor-screen-only" id="elementor-device-mode">
+  </span>
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-DSNMZMZB23">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());  gtag('config', 'G-DSNMZMZB23');
+  </script>
+ </body>
+</html>

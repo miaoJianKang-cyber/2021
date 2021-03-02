@@ -1,0 +1,978 @@
+<html>
+ <head>
+  <style type="text/css">
+   .amap-logo{display:block!important;pointer-events:none;}
+  </style>
+  <style class="AMap.style" type="text/css">
+   .vml{behavior:url(#default#VML);display:inline-block;position:absolute}.amap-custom{top:0;left:0;position:absolute}.amap-container img{max-width:none!important;max-height:none!important}.amap-container{touch-action:none;position:relative;overflow:hidden;background:#fcf9f2 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAfQAAAH0AgMAAAC2uDcZAAAADFBMVEX////////////////1pQ5zAAAABHRSTlMAgP/AWuZC2AAAAVhJREFUeAFiYGAQYGDEQjAB2rcDC4BiGIqiU7abdKlO2QkeIClyPsDHweMKtOPHIJ1Op6/w7Y4fdqfT6VpndzqdrnV2p9PpWmd3Oj3qWndSoKp+2J1Op7vr7E6n07XO7nQ6XevsTqfTtc7udPo4/f787E6n0911dqfT6VpndzqdrnV2p9PpWmd3Ot27Ce8m6HS6u85dR6fTtU7r6HS61mkdnU7XOrvT6XTvJuxOp9PddXan0+laZ3c6na51dDpd67SOTqd7N+HdBJ1Od9e56+h0utZpHZ1O1zq70+l0rbM7nU73bsLudDrdXWd3Ol3rtI5Op2ud1tHpdK3TOjqd7t2EdxN0Ot1dZ3c6na51dqfT6VpndzqdrnV2p9Pp3k3Q6XR3nbuOTqdrndbR6XSt0zo6na51Wken072bsDudTnfX2Z1Op2ud3el0utbZnU7XOq2j0+t0uncTD1gO4zoT5doZAAAAAElFTkSuQmCC);-ms-touch-action:none}.amap-drags,.amap-layers{width:100%;height:100%;position:absolute;overflow:hidden}.amap-layers canvas{-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.amap-layer img{pointer-events:none}.amap-e,.amap-maps{width:100%;height:100%}.amap-maps,.amap-e,.amap-layers,.amap-tile,.amap-tile-container{position:absolute;left:0;top:0;overflow:hidden}.amap-context{position:absolute;left:0;top:0}.amap-overlays,.amap-markers,.amap-marker{position:absolute;left:0;top:0}.amap-layers{z-index:0}.amap-overlays{z-index:110;cursor:default}.amap-markers{z-index:120}.amap-controls{z-index:150}.amap-copyright{position:absolute;display:block!important;left:77px;height:16px;bottom:0;padding-bottom:3px;font-size:11px;font-family:Arial,sans-serif;z-index:160}.amap-logo{position:absolute;bottom:1px;left:1px;z-index:160;height:20px}.amap-logo img{width:73px!important;height:20px!important;border:0;vertical-align:baseline!important}.amap-icon{position:relative;z-index:1}.amap-icon img{position:absolute;z-index:-1}.amap-marker-label{position:absolute;z-index:2;border:1px solid blue;background-color:white;white-space:nowrap;cursor:default;padding:3px;font-size:12px;line-height:14px}.amap-info{position:absolute;left:0;z-index:140;width:320px}.amap-menu{position:absolute;z-index:140;_width:100px}.amap-info-close{position:absolute;right:5px;_right:12px;+right:11px;top:5px;_top:2px;+top:2px;color:#c3c3c3;text-decoration:none;font:bold 16px/14px Tahoma,Verdana,sans-serif;width:14px;height:14px}.amap-info-outer,.amap-menu-outer{box-shadow:0 1px 2px rgba(0,0,0,0.1);background:none repeat scroll 0 0 white;border-radius:2px;padding:1px;text-align:left}.amap-menu-outer:hover{box-shadow:0 1px 2px rgba(0,0,0,0.3)}.amap-info-contentContainer:hover .amap-info-outer{box-shadow:0 1px 2px rgba(0,0,0,0.3)}.amap-info-content{position:relative;background:#fff;padding:10px 18px 10px 10px;line-height:1.4;overflow:auto}.amap-marker-content{position:relative}.amap-info{_width:320px}.amap-menu{_width:100px}.amap-info-sharp-old{overflow:hidden;position:absolute;background-image:url(http://webapi.amap.com/images/arrows.png)}.bottom-center .amap-info-sharp-old{height:12px;margin:0 auto;width:20px;background-position:center 12px;top:100%;margin-top:-9px;left:50%;margin-left:-10px}.bottom-left .amap-info-sharp-old{height:12px;width:13px;background-position:-16px -46px;top:100%;margin-top:-9px}.bottom-right .amap-info-sharp-old{height:12px;width:13px;top:-1px;background-position:-56px -46px;left:100%;margin-left:-13px;top:100%;margin-top:-9px}.middle-left .amap-info-sharp-old{height:20px;width:12px;background-position:left;top:50%;margin-top:-10px;margin-left:-11px}.center .amap-info-sharp-old{display:none}.middle-right .amap-info-sharp-old{height:20px;margin-right:0;width:12px;background-position:right;left:100%;margin-left:-9px;top:50%;margin-top:-10px}.top-center .amap-info-sharp-old{height:12px;margin:0 auto;width:20px;background-position:top;top:0;margin-top:-3px;left:50%;margin-left:-10px}.top-left .amap-info-sharp-old{height:12px;width:13px;background-position:-16px -3px;top:0;margin-top:-3px}.top-right .amap-info-sharp-old{height:12px;width:13px;background-position:-56px -3px;left:100%;margin-left:-13px;top:0;margin-top:-3px}.amap-info-sharp{position:absolute}.bottom-center .amap-info-sharp{bottom:0;left:50%;margin-left:-8px;border-left:8px solid transparent;border-right:8px solid transparent;border-top:8px solid #fff}.bottom-center .amap-info-sharp:after{position:absolute;content:"";margin-left:-8px;margin-top:-7px;border-left:8px solid transparent;border-right:8px solid transparent;border-top:8px solid rgba(0,0,0,0.3);filter:blur(2px);z-index:-1}.amap-info-contentContainer:hover.bottom-center .amap-info-sharp:after{border-top:8px solid rgba(0,0,0,0.5)}.bottom-left .amap-info-sharp{border-color:transparent #fff;border-width:0 0 10px 10px;border-style:solid}.bottom-left .amap-info-sharp:after{position:absolute;content:"";margin-left:-10px;border-color:transparent rgba(0,0,0,0.3);border-width:0 0 10px 10px;border-style:solid;filter:blur(1px);z-index:-1}.amap-info-contentContainer:hover.bottom-left .amap-info-sharp:after{border-color:transparent rgba(0,0,0,0.5)}.bottom-left .amap-info-content{border-radius:2px 2px 2px 0}.bottom-right .amap-info-sharp{right:0;border-top:10px solid #fff;border-left:10px solid transparent}.bottom-right .amap-info-sharp:after{position:absolute;margin-top:-9px;margin-left:-10px;content:"";border-top:10px solid rgba(0,0,0,0.3);border-left:10px solid transparent;filter:blur(1px);z-index:-1}.amap-info-contentContainer:hover.bottom-right .amap-info-sharp:after{border-top:10px solid rgba(0,0,0,0.5)}.bottom-right .amap-info-content{border-radius:2px 2px 0 2px}.top-center .amap-info-sharp{top:0;left:50%;margin-left:-8px;border-left:8px solid transparent;border-right:8px solid transparent;border-bottom:8px solid #fff}.top-center .amap-info-sharp:after{position:absolute;content:"";margin-top:0;margin-left:-8px;border-left:8px solid transparent;border-right:8px solid transparent;border-bottom:8px solid rgba(0,0,0,0.3);filter:blur(1px);z-index:-1}.top-left .amap-info-sharp{left:0;top:0;border-bottom:10px solid #fff;border-right:10px solid transparent}.top-left .amap-info-sharp:after{position:absolute;content:"";margin-top:0;margin-left:0;border-bottom:10px solid rgba(0,0,0,0.3);border-right:10px solid transparent;filter:blur(1px);z-index:-1}.top-right .amap-info-sharp{right:0;top:0;border-bottom:10px solid #fff;border-left:10px solid transparent}.top-right .amap-info-sharp:after{position:absolute;content:"";margin-top:0;margin-left:-10px;border-bottom:10px solid rgba(0,0,0,0.3);border-left:10px solid transparent;filter:blur(1px);z-index:-1}.middle-right .amap-info-sharp{right:0;top:50%;margin-top:-8px;border-top:8px solid transparent;border-left:8px solid #fff;border-bottom:8px solid transparent}.middle-right .amap-info-sharp:after{position:absolute;content:"";margin-top:-8px;margin-left:-8px;border-top:8px solid transparent;border-left:8px solid rgba(0,0,0,0.3);border-bottom:8px solid transparent;filter:blur(1px);z-index:-1}.amap-info-contentContainer:hover.middle-right .amap-info-sharp:after{border-left:8px solid rgba(0,0,0,0.5)}.middle-left .amap-info-sharp{left:0;top:50%;margin-top:-8px;border-top:8px solid transparent;border-right:8px solid #fff;border-bottom:8px solid transparent}.middle-left .amap-info-sharp:after{position:absolute;content:"";margin-top:-8px;margin-left:0;border-top:8px solid transparent;border-right:8px solid rgba(0,0,0,0.3);border-bottom:8px solid transparent;filter:blur(1px);z-index:-1}.amap-info-contentContainer:hover.middle-left .amap-info-sharp:after{border-right:8px solid rgba(0,0,0,0.5)}.amap-info-contentContainer.top-left,.amap-info-contentContainer.top-center,.amap-info-contentContainer.top-right{padding-top:8px}.amap-info-contentContainer.bottom-left,.amap-info-contentContainer.bottom-center,.amap-info-contentContainer.bottom-right{padding-bottom:8px}.amap-info-contentContainer.middle-right{padding-right:8px}.amap-info-contentContainer.middle-left{padding-left:8px}.amap-menu-outer{margin:0;padding:0;list-style-type:none}ul.amap-menu-outer li{cursor:pointer;height:35px;line-height:35px;word-break:break-all;padding:0 10px;font-size:12px;white-space:nowrap}ul.amap-menu-outer li a{text-decoration:none;font-size:13px;margin:0 5px;color:#000;padding:5px 5px}ul.amap-menu-outer li:hover{background-color:#f3f3ee}.amap-overlay-text-container{display:block;width:auto;word-break:keep-all;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background:#fff;padding:2px 3px;border:1px solid #ccc;border-radius:3px}.amap-overlay-text-container.amap-overlay-text-empty{display:none}.amap-info-content-ie8{border:1px solid #9c9c9c}
+  </style>
+  <meta charset="utf-8"/>
+  <title>
+   Hubungi Kami - Henan Jianhui Steel Co., Ltd
+  </title>
+  <meta content="Hubungi Kami" name="description"/>
+  <meta content="Hubungi Kami" name="keywords"/>
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <link href="http://m.my.hnjhsteel.com/contact-us" media="only screen and (max-width: 640px)" rel="alternate"/>
+  <link href="http://my.hnjhsteel.com/contact-us" rel="canonical"/>
+  <link href="/Content/File_Img/19890/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+  <link href="/Content/File_Img/19890/favicon.ico" rel="icon" type="image/x-icon"/>
+  <link href="/images/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+  <link href="/images/m221/animate.min.css" rel="stylesheet" type="text/css"/>
+  <link href="/images/m221/yellow/style.css" rel="stylesheet" type="text/css"/>
+  <script async="" src="//www.googleadservices.com/pagead/conversion_async.js" type="text/javascript">
+  </script>
+  <script async="" src="https://www.google-analytics.com/analytics.js" type="text/javascript">
+  </script>
+  <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-T7NXDTQ">
+  </script>
+  <script src="/js/jquery-2.1.4.min.js">
+  </script>
+  <script src="/js/Site_Common.js">
+  </script>
+  <link href="/js/19890/Other.css" rel="stylesheet" type="text/css"/>
+  <style>
+   .zxgt123{top:350px!important;}
+.pro-info-container.container .construction-nav,.tab-content {max-width:800px;margin:0 auto;}
+.table,.table-foot {width:100%;}
+.rollPro1 li {width:33.333%;margin-bottom:20px;}
+.seatxt{border:1px #000 solid}
+body .skefu{top:80px}
+  </style>
+  <!-- Google Tag Manager -->
+  <script>
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7NXDTQ');
+  </script>
+  <!-- End Google Tag Manager -->
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+   <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-T7NXDTQ" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/702337078/?random=1613785662352&amp;cv=9&amp;fst=1613785662352&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=1080&amp;u_w=1920&amp;u_ah=1040&amp;u_aw=1920&amp;u_cd=24&amp;u_his=13&amp;u_tz=480&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wg2a1&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=http%3A%2F%2Fmy.hnjhsteel.com%2Fcontact-us&amp;tiba=Hubungi%20Kami%20-%20Henan%20Jianhui%20Steel%20Co.%2C%20Ltd&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4">
+  </script>
+  <script src="/o/s?l=&amp;u=http%3A//my.hnjhsteel.com/contact-us&amp;navUA=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/88.0.4324.96%20Safari/537.36" type="text/javascript">
+  </script>
+  <style type="text/css">
+   .amap-container{cursor:url(https://webapi.amap.com/theme/v1.3/openhand.cur),default;}.amap-drag{cursor:url(https://webapi.amap.com/theme/v1.3/closedhand.cur),default;}
+  </style>
+  <script charset="utf-8" src="https://plt.zoosnet.net/js/JS_Float.aspx?jid=d&amp;id=72399808&amp;sid=2a0181d9984244dfb67cb18b1f420622&amp;cid=2a0181d9984244dfb67cb18b1f420622&amp;lng=en&amp;p=http%3A//my.hnjhsteel.com/contact-us&amp;r=&amp;e=&amp;OHIL=GDDE&amp;PHJM=HDEF&amp;QIJM=IEEG&amp;NFMH=299E6b3941500E5o857c020609020o05030E0E040c050o0408050c0E0c00070b&amp;s=1920*1080&amp;d=1613785663168" type="text/javascript">
+  </script>
+ </head>
+ <body>
+  <header>
+   <nav class="clearfix">
+    <div class="nav-left">
+     <a href="http://my.hnjhsteel.com/">
+      <img alt="Henan Jianhui Steel Co., Ltd" src="/uploads/201919890/logo201908121454517823414.png"/>
+     </a>
+    </div>
+    <div class="nav-mid">
+     <ul class="clearfix nav nav_ms site_448563" id="nav">
+      <li id="liHome">
+       <a class="inmenu" href="http://my.hnjhsteel.com/">
+        Rumah
+       </a>
+      </li>
+      <li id="liabout-us">
+       <a class="inmenu" href="http://my.hnjhsteel.com/about-us">
+        Tentang kita
+       </a>
+      </li>
+      <li id="liproducts" onmouseout="hideSubMenu(this)" onmouseover="displaySubMenu(this)">
+       <a class="inmenu" href="http://my.hnjhsteel.com/products">
+        Produk
+       </a>
+       <ul class="submenu">
+        <li class="side_nav1" id="HeadProCat1">
+         <a href="http://my.hnjhsteel.com/ppgi-ppgl-steel/">
+          PPGI / PPGL Steel
+         </a>
+        </li>
+        <li class="side_nav1" id="HeadProCat2">
+         <a href="http://my.hnjhsteel.com/gi-gl-steel/">
+          GI / GL Steel
+         </a>
+        </li>
+        <li class="side_nav1" id="HeadProCat3">
+         <a href="http://my.hnjhsteel.com/roofing-sheet/">
+          Lembaran Bumbung
+         </a>
+        </li>
+        <li class="side_nav1" id="HeadProCat4">
+         <a href="http://my.hnjhsteel.com/strips/">
+          Jalur
+         </a>
+        </li>
+        <li class="side_nav1" id="HeadProCat5">
+         <a href="http://my.hnjhsteel.com/cold-rolled/">
+          Sejuk dilancarkan
+         </a>
+        </li>
+        <li class="side_nav1" id="HeadProCat6">
+         <a href="http://my.hnjhsteel.com/ss-steel/">
+          SS Steel
+         </a>
+        </li>
+        <li class="side_nav1" id="HeadProCat7">
+         <a href="http://my.hnjhsteel.com/tin-plate/">
+          Plat Tin
+         </a>
+        </li>
+        <li class="side_nav1" id="HeadProCat8">
+         <a href="http://my.hnjhsteel.com/color-coated-aluminium-steel-coil/">
+          PPAL
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li id="linewslist-1">
+       <a class="inmenu" href="http://my.hnjhsteel.com/newslist-1">
+        Berita
+       </a>
+      </li>
+      <li id="liInfo" onmouseout="hideSubMenu(this)" onmouseover="displaySubMenu(this)">
+       <a class="inmenu" href="http://my.hnjhsteel.com/info/">
+        Pengetahuan
+       </a>
+       <ul class="submenu">
+        <li id="HeadIndustryCat1">
+         <a href="http://my.hnjhsteel.com/info/231563/" title="Cold Rolled">
+          Cold Rolled
+         </a>
+        </li>
+        <li id="HeadIndustryCat2">
+         <a href="http://my.hnjhsteel.com/info/235629/" title="Coil keluli tergalvani yang telah dicat semula">
+          Coil keluli tergalvani yang telah dicat semula
+         </a>
+        </li>
+        <li id="HeadIndustryCat3">
+         <a href="http://my.hnjhsteel.com/info/232738/" title="Gegelung keluli tergalvani">
+          Gegelung keluli tergalvani
+         </a>
+        </li>
+        <li id="HeadIndustryCat4">
+         <a href="http://my.hnjhsteel.com/info/231760/" title="Keluli tahan karat">
+          Keluli tahan karat
+         </a>
+        </li>
+        <li id="HeadIndustryCat5">
+         <a href="http://my.hnjhsteel.com/info/231559/" title="Plat timah">
+          Plat timah
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li id="licontact-us">
+       <a class="inmenu_1" href="http://my.hnjhsteel.com/contact-us">
+        Hubungi Kami
+       </a>
+      </li>
+      <li id="liinquiry">
+       <a class="inmenu" href="http://my.hnjhsteel.com/inquiry">
+        Maklumbalas
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class="navBar">
+     <div class="bar-menu">
+      <i class="bar-top">
+       <span>
+       </span>
+      </i>
+      <i class="bar-cen">
+       <span>
+       </span>
+      </i>
+      <i class="bar-bom">
+       <span>
+       </span>
+      </i>
+      <i class="bar-left">
+       <span>
+       </span>
+      </i>
+      <i class="bar-right">
+       <span>
+       </span>
+      </i>
+     </div>
+     <div class="fixed-menu">
+      <ul class="nav">
+       <li id="liHome">
+        <a class="inmenu" href="http://my.hnjhsteel.com/">
+         Rumah
+        </a>
+       </li>
+       <li id="liabout-us">
+        <a class="inmenu" href="http://my.hnjhsteel.com/about-us">
+         Tentang kita
+        </a>
+       </li>
+       <li id="liproducts" onmouseout="hideSubMenu(this)" onmouseover="displaySubMenu(this)">
+        <a class="inmenu" href="http://my.hnjhsteel.com/products">
+         Produk
+        </a>
+        <ul class="submenu">
+         <li class="side_nav1" id="HeadProCat1">
+          <a href="http://my.hnjhsteel.com/ppgi-ppgl-steel/">
+           PPGI / PPGL Steel
+          </a>
+         </li>
+         <li class="side_nav1" id="HeadProCat2">
+          <a href="http://my.hnjhsteel.com/gi-gl-steel/">
+           GI / GL Steel
+          </a>
+         </li>
+         <li class="side_nav1" id="HeadProCat3">
+          <a href="http://my.hnjhsteel.com/roofing-sheet/">
+           Lembaran Bumbung
+          </a>
+         </li>
+         <li class="side_nav1" id="HeadProCat4">
+          <a href="http://my.hnjhsteel.com/strips/">
+           Jalur
+          </a>
+         </li>
+         <li class="side_nav1" id="HeadProCat5">
+          <a href="http://my.hnjhsteel.com/cold-rolled/">
+           Sejuk dilancarkan
+          </a>
+         </li>
+         <li class="side_nav1" id="HeadProCat6">
+          <a href="http://my.hnjhsteel.com/ss-steel/">
+           SS Steel
+          </a>
+         </li>
+         <li class="side_nav1" id="HeadProCat7">
+          <a href="http://my.hnjhsteel.com/tin-plate/">
+           Plat Tin
+          </a>
+         </li>
+         <li class="side_nav1" id="HeadProCat8">
+          <a href="http://my.hnjhsteel.com/color-coated-aluminium-steel-coil/">
+           PPAL
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li id="linewslist-1">
+        <a class="inmenu" href="http://my.hnjhsteel.com/newslist-1">
+         Berita
+        </a>
+       </li>
+       <li id="liInfo" onmouseout="hideSubMenu(this)" onmouseover="displaySubMenu(this)">
+        <a class="inmenu" href="http://my.hnjhsteel.com/info/">
+         Pengetahuan
+        </a>
+        <ul class="submenu">
+         <li id="HeadIndustryCat1">
+          <a href="http://my.hnjhsteel.com/info/231563/" title="Cold Rolled">
+           Cold Rolled
+          </a>
+         </li>
+         <li id="HeadIndustryCat2">
+          <a href="http://my.hnjhsteel.com/info/235629/" title="Coil keluli tergalvani yang telah dicat semula">
+           Coil keluli tergalvani yang telah dicat semula
+          </a>
+         </li>
+         <li id="HeadIndustryCat3">
+          <a href="http://my.hnjhsteel.com/info/232738/" title="Gegelung keluli tergalvani">
+           Gegelung keluli tergalvani
+          </a>
+         </li>
+         <li id="HeadIndustryCat4">
+          <a href="http://my.hnjhsteel.com/info/231760/" title="Keluli tahan karat">
+           Keluli tahan karat
+          </a>
+         </li>
+         <li id="HeadIndustryCat5">
+          <a href="http://my.hnjhsteel.com/info/231559/" title="Plat timah">
+           Plat timah
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li id="licontact-us">
+        <a class="inmenu_1" href="http://my.hnjhsteel.com/contact-us">
+         Hubungi Kami
+        </a>
+       </li>
+       <li id="liinquiry">
+        <a class="inmenu" href="http://my.hnjhsteel.com/inquiry">
+         Maklumbalas
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="nav-right">
+     <div id="xyz">
+      <div class="xyz12">
+       <span class="up">
+       </span>
+       <ul>
+        <li id="liDropD_En">
+         <a href="https://www.jianhuissteel.com/">
+          <img src="/images/Common2/en.png"/>
+          English
+         </a>
+        </li>
+        <li style="display: none;">
+         <a href="http://bg.hnjhsteel.com/">
+          <img src="/images/Common2/bg.png"/>
+          Български
+         </a>
+        </li>
+        <li style="display: none;">
+         <a href="http://lv.hnjhsteel.com/">
+          <img src="/images/Common2/lv.png"/>
+          Latviešu
+         </a>
+        </li>
+        <li style="display: none;">
+         <a href="http://th.hnjhsteel.com/">
+          <img src="/images/Common2/th.png"/>
+          ไทย
+         </a>
+        </li>
+        <li style="display: none;">
+         <a href="http://ja.hnjhsteel.com/">
+          <img src="/images/Common2/ja.png"/>
+          日本語
+         </a>
+        </li>
+        <li style="display: none;">
+         <a href="http://ro.hnjhsteel.com/">
+          <img src="/images/Common2/ro.png"/>
+          România limbi
+         </a>
+        </li>
+        <li style="display: none;">
+         <a href="http://lt.ppgi-steel.com/">
+          <img src="/images/Common2/lt.png"/>
+          Lietuvių
+         </a>
+        </li>
+        <li style="display: none;">
+         <a href="http://pt.ppgi-steel.com/">
+          <img src="/images/Common2/pt.png"/>
+          Português
+         </a>
+        </li>
+        <li style="display: none;">
+         <a href="http://tlh.hnjhsteel.com/">
+          <img src="/images/Common2/tlh.png"/>
+          íslenska
+         </a>
+        </li>
+        <li style="display: none;">
+         <a href="http://it.hnjhsteel.com/">
+          <img src="/images/Common2/it.png"/>
+          Italiano
+         </a>
+        </li>
+        <li style="display: none;">
+         <a href="http://www.hnjhsteel.com/">
+          <img src="/images/Common2/ru.png"/>
+          русский
+         </a>
+        </li>
+        <li style="display: none;">
+         <a href="http://srcyrl.hnjhsteel.com/">
+          <img src="/images/Common2/srcyrl.png"/>
+          O'zbek
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="lage lage-ms">
+     </div>
+    </div>
+    <div class="tcont">
+     <p>
+      E-mail：
+      <a href="mailto:sales@jianhuissteel.com">
+       sales@jianhuissteel.com
+      </a>
+     </p>
+     <p>
+      whatsapp：
+      <a href="https://api.whatsapp.com/send?phone=8618137379019" target="_blank">
+       +86 18137379019
+      </a>
+     </p>
+    </div>
+   </nav>
+   <div class="mask">
+   </div>
+  </header>
+  <div class="con-banner inner-banner">
+   <img src="/uploads/201919890/ImgScroll/ba201903151608047852050.jpg"/>
+   <div>
+    <h2 class="fadedown wow fadeInDown animated" data-wow-delay="300ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 300ms; animation-name: fadeInDown;">
+     Hubungi Kami
+    </h2>
+    <p class="fadedown inner-page-nav wow fadeInDown animated" data-wow-delay="300ms" data-wow-duration="1000ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 300ms; animation-name: fadeInDown;">
+     <a href="http://my.hnjhsteel.com/">
+      Rumah
+     </a>
+     <span>
+      &gt;
+     </span>
+     Hubungi Kami
+    </p>
+   </div>
+  </div>
+  <div class="con-contain contact">
+   <div class="about-nav">
+    <ul>
+     <li>
+      <a href="http://my.hnjhsteel.com/about-us">
+       Tentang kita
+      </a>
+     </li>
+     <li class="LocalCurrent">
+      <a href="http://my.hnjhsteel.com/contact-us">
+       Hubungi Kami
+      </a>
+     </li>
+     <li>
+      <a href="http://my.hnjhsteel.com/inquiry">
+       Maklumbalas
+      </a>
+     </li>
+    </ul>
+   </div>
+   <div class="container">
+    <table border="0" cellpadding="0" cellspacing="0">
+     <tbody>
+      <tr class="firstRow">
+       <td colspan="1" rowspan="1" valign="top" width="293">
+        <p>
+         <span>
+          Wendy
+         </span>
+        </p>
+        <p>
+         <span>
+          Pengurus jualan
+         </span>
+        </p>
+        <p>
+         <span>
+          <span font-size:="" new="" roman="" style="font-family: " times="">
+           <strong>
+            <span color:="" new="" rgb="" roman="" style="font-family: " times="">
+             Buat Steel dalam perkataan
+            </span>
+           </strong>
+          </span>
+         </span>
+         <br/>
+        </p>
+        <p>
+         <span>
+          <strong>
+           HENAN JIANHUI STEEL CO., LTD
+          </strong>
+         </span>
+        </p>
+        <p>
+         <span>
+          Alamat: ZON PEMBANGUNAN
+         </span>
+        </p>
+        <p>
+         <span>
+          HUIGUO TOWN ZHENGZHOU, CHINA
+         </span>
+        </p>
+        <p>
+         <span>
+          Tel: + 86-371-89812229
+         </span>
+        </p>
+        <p>
+         <span>
+          Faks: + 86-371-89812228
+         </span>
+        </p>
+        <p>
+         <span>
+          MP: +8618137379019
+         </span>
+        </p>
+        <p>
+         <span>
+          Wechat / Whatsapp: +8618137379019
+         </span>
+        </p>
+        <p>
+         <span>
+          E-mel:
+          <a href="mailto:greatsteel@jianhuissteel.com" id="A_6">
+           greatsteel@jianhuissteel.com
+          </a>
+         </span>
+        </p>
+       </td>
+       <td valign="top" width="441">
+        <p style="text-align:center">
+         <span>
+          <strong>
+           WeChat
+          </strong>
+         </span>
+        </p>
+        <p style="text-align:center">
+         <img alt="20190326154819" height="300" src="/Content/upload/2019448522/201903261550408403486.jpg" style="width: 300px; height: 300px;" title="20190326154819" width="300"/>
+        </p>
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <p>
+     <br/>
+    </p>
+    <script src="/js/Inquiry/ms.js" type="text/javascript">
+    </script>
+    <script id="JSInquiry_ContactUs" src="/js/Inquiry/feedback.js" type="text/javascript">
+    </script>
+    <link href="/images/feedback.css" rel="stylesheet" type="text/css"/>
+    <div class="feedbackForm" id="F1" name="F1">
+     <form action="" id="feedbackForm" method="post" name="feedbackForm">
+      <table align="center" border="0" cellpadding="0" cellspacing="0">
+       <tbody>
+        <tr>
+         <td class="ftxt">
+          <div class="lable">
+           Nama:
+          </div>
+         </td>
+         <td class="fput">
+          <input class="text" id="SubmitName" maxlength="40" name="SubmitName"/>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <div class="lable">
+           <span class="xh">
+            *
+           </span>
+           E-mel:
+          </div>
+         </td>
+         <td>
+          <input class="text" id="SubmitEmail" maxlength="50" name="SubmitEmail" placeholder="Sila input e-mel anda di sini, ia adalah sangat penting!"/>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <div class="lable">
+           Telefon:
+          </div>
+         </td>
+         <td>
+          <input class="text" id="SubmitPhone" maxlength="40" name="SubmitPhone"/>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <div class="lable">
+           Nama Syarikat:
+          </div>
+         </td>
+         <td>
+          <input class="text" id="SubmitCompanyName" maxlength="140" name="SubmitCompanyName"/>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <div class="lable">
+           Tajuk:
+          </div>
+         </td>
+         <td>
+          <input class="text" id="SubmitTitle" maxlength="340" name="SubmitTitle"/>
+         </td>
+        </tr>
+        <tr>
+         <td valign="top">
+          <div class="lable">
+           <span class="xh">
+            *
+           </span>
+           Kandungan:
+          </div>
+         </td>
+         <td>
+          <textarea class="atextarea" cols="50" id="SubmitContent" maxlength="2000" name="SubmitContent" placeholder="Sila sertakan butiran seperti saiz, berat, pelabuhan destinasi dan ect., Supaya kita boleh memetik harga yang terbaik." rows="5"></textarea>
+         </td>
+        </tr>
+        <tr>
+         <td>
+         </td>
+         <td>
+          <div class="fsbtn">
+           <button class="submita" id="ImgSend" onclick="SendInquiry();return false;">
+            Mengemukakan
+           </button>
+           <span id="msg">
+           </span>
+          </div>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </form>
+    </div>
+    <div class="feedback-tips">
+     <div class="feedback-tips-box">
+      <p id="feedback-title">
+      </p>
+      <p id="feedback-text">
+      </p>
+      <button id="closeBtn" onclick="closefeedbackTips()">
+       OK
+      </button>
+     </div>
+    </div>
+   </div>
+  </div>
+  <footer>
+   <div id="search">
+    <div class="clearfix">
+     <div class="btns">
+      <input class="seatxt" id="txtSearch" name="btnSearch" placeholder="Kata kunci" type="text"/>
+      <input class="stbn" id="btnSearch" name="txtSearch" onclick="PSearch()" type="submit" value="Cari"/>
+     </div>
+    </div>
+   </div>
+   <div class="footer-img">
+    <div class="footer-container container clearfix">
+     <div class="col col-ul">
+      <div class="footer-title">
+       Cepat navigasi
+      </div>
+      <ul class="footer-ul">
+       <li id="li_Menu101_MainHome">
+        <a href="http://www.hnjhsteel.com">
+         Utama Laman
+        </a>
+       </li>
+       <li id="li_Menu101_about-us">
+        <a class="inmenu" href="http://my.hnjhsteel.com/about-us">
+         Tentang kita
+        </a>
+       </li>
+       <li id="li_Menu101_products">
+        <a class="inmenu" href="http://my.hnjhsteel.com/products">
+         Produk
+        </a>
+       </li>
+       <li id="li_Menu101_newslist-1">
+        <a class="inmenu" href="http://my.hnjhsteel.com/newslist-1">
+         Berita
+        </a>
+       </li>
+       <li id="li_Menu101_Info">
+        <a class="inmenu" href="http://my.hnjhsteel.com/info/">
+         Pengetahuan
+        </a>
+       </li>
+       <li id="li_Menu101_contact-us">
+        <a class="inmenu_1" href="http://my.hnjhsteel.com/contact-us">
+         Hubungi Kami
+        </a>
+       </li>
+       <li id="li_Menu101_inquiry">
+        <a class="inmenu" href="http://my.hnjhsteel.com/inquiry">
+         Maklumbalas
+        </a>
+       </li>
+       <li id="li_Menu101_sitemap">
+        <a href="/sitemap.xml">
+         Peta Laman
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="col col-ul">
+      <div class="footer-title">
+       Produk-produk
+      </div>
+      <ul class="footer-ul">
+       <li class="side_nav1" id="HeadProCat1">
+        <a href="http://my.hnjhsteel.com/ppgi-ppgl-steel/">
+         PPGI / PPGL Steel
+        </a>
+       </li>
+       <li class="side_nav1" id="HeadProCat2">
+        <a href="http://my.hnjhsteel.com/gi-gl-steel/">
+         GI / GL Steel
+        </a>
+       </li>
+       <li class="side_nav1" id="HeadProCat3">
+        <a href="http://my.hnjhsteel.com/roofing-sheet/">
+         Lembaran Bumbung
+        </a>
+       </li>
+       <li class="side_nav1" id="HeadProCat4">
+        <a href="http://my.hnjhsteel.com/strips/">
+         Jalur
+        </a>
+       </li>
+       <li class="side_nav1" id="HeadProCat5">
+        <a href="http://my.hnjhsteel.com/cold-rolled/">
+         Sejuk dilancarkan
+        </a>
+       </li>
+       <li class="side_nav1" id="HeadProCat6">
+        <a href="http://my.hnjhsteel.com/ss-steel/">
+         SS Steel
+        </a>
+       </li>
+       <li class="side_nav1" id="HeadProCat7">
+        <a href="http://my.hnjhsteel.com/tin-plate/">
+         Plat Tin
+        </a>
+       </li>
+       <li class="side_nav1" id="HeadProCat8">
+        <a href="http://my.hnjhsteel.com/color-coated-aluminium-steel-coil/">
+         PPAL
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="col">
+      <div class="footer-title">
+       Hubungi kami
+      </div>
+      <ul class="footer-ul footer-sec">
+       <p>
+        <span>
+         Henan Jianhui Steel Co., Ltd
+        </span>
+       </p>
+       <p>
+        <span>
+         Tambah: Zon Pembangunan, Bandar Huiguo, Zhengzhou, China
+        </span>
+       </p>
+       <p>
+        <span>
+         Tel: + 86-371-89812229
+        </span>
+       </p>
+       <p>
+        <span>
+         Faks: + 86-371-89812228
+        </span>
+       </p>
+       <p>
+        <span>
+         Bergerak: +8618137379019
+        </span>
+       </p>
+       <p>
+        <span>
+         E-mel:
+         <a href="mailto:greatsteel@jianhuissteel.com" id="A_1">
+          sales@jianhuissteel.com
+         </a>
+        </span>
+       </p>
+      </ul>
+     </div>
+     <div class="col col-ul">
+      <div class="footer-title wechat">
+       Kod QR
+      </div>
+      <div class="ft-qr">
+       <img border="0" class="ErWeiImg" src="/uploads/201919890/erwei448563.jpg"/>
+      </div>
+      <ul class="lfr">
+       <li>
+        <a href="https://www.facebook.com/wendy.liu.3154" rel="nofollow" target="_blank">
+         <img border="0" src="/images/Common/Facebook1.png"/>
+        </a>
+       </li>
+       <li>
+        <a href="https://www.linkedin.com/in/connie-liu-78b5b8106/" rel="nofollow" target="_blank">
+         <img border="0" src="/images/Common/Linkedin1.png"/>
+        </a>
+       </li>
+       <li>
+        <a href="https://www.pinterest.com/business/hub" rel="nofollow" target="_blank">
+         <img border="0" src="/images/Common/Pinterest1.png"/>
+        </a>
+       </li>
+       <li>
+        <a href="https://www.youtube.com/channel/UCJrDrhA3rZDD4WmQ7muJLsw" rel="nofollow" target="_blank">
+         <img border="0" src="/images/Common/youtube1.png"/>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="foot">
+     <div class="foot-left">
+      Hakcipta © Henan Jianhui Steel Co., Ltd Hak Cipta Terpelihara.
+     </div>
+    </div>
+   </div>
+  </footer>
+  <script src="/js/js221.js" type="text/javascript">
+  </script>
+  <link href="/images/flag.css" rel="stylesheet" type="text/css"/>
+  <script src="/js/m221/bootstrap.min.js" type="text/javascript">
+  </script>
+  <script src="/js/m221/wow.min.js" type="text/javascript">
+  </script>
+  <script src="https://webapi.amap.com/maps?v=1.4.8&amp;key=2a716535c05f6c993d1ae1eb32cb3caa">
+  </script>
+  <script crossorigin="anonymous" id="amap_plus_js" src="https://webapi.amap.com/maps/modules?v=1.4.15&amp;key=2a716535c05f6c993d1ae1eb32cb3caa&amp;vrs=1606397679220&amp;m=mouse,vectorlayer,overlay,cgl,sync" type="text/javascript">
+  </script>
+  <script id="js" page="contact" src="/js/m221/scripts.js" type="text/javascript">
+  </script>
+  <script src="/Content/File_Img/19890/float19890.js" type="text/javascript">
+  </script>
+  <style type="text/css">
+   .in_os .os_x, .in_os .osqq, .ico_os, .ico_gtop, .feed_pp{ background:url(/images/Common/kf.png) no-repeat;}
+.in_os{ height:auto; overflow:hidden; width:151px; position:fixed; right:0; top:180px; _position:absolute; z-index:9999;display:none;}
+.in_os .os_x{ background-color:#f7f7f7; background-position:2px 2px; width:18px; height:20px; float:right; display:inline; cursor:pointer;}
+.in_os .osqq{ width:149px; border:1px solid #ddd; background-color:#fff; background-position:8px -120px; clear:both; padding:37px 0 8px 0; text-align:center;}
+.in_os .acc{ padding:3px 0 3px 6px; border-top:1px solid #61a4dd}.in_os .acc a{color:#333; text-decoration:none}
+.in_os .acc li{ height:28px; line-height:28px ; text-align:left;display:block;white-space:nowrap; overflow:hidden; text-overflow:ellipsis;}.in_os .acc li img{ vertical-align:middle}
+.acbox .ico_gtop{ background-position:-55px 0; border:1px solid #ddd; border-top:0; cursor:pointer; width:70px; height:33px; float:right;margin-right:2px;}
+.acbox .feed_pp{ background-position:-55px -60px; border:1px solid #ddd; border-top:0; cursor:pointer; width:70px; height:33px; float:right; margin-right:1px;}
+.skefu{ background:none; width:39px; *width:84px; height:178px; ;position:fixed; right:0; top:180px; _position:absolute;z-index:9999;}
+.skefu .ico_os{ background-position:-2px -20px; border:1px solid #ddd; cursor:pointer; width:39px; height:90px; float:right;}
+.skefu .ico_gtop{ background-position:right 0; border:1px solid #ddd; cursor:pointer; width:39px; height:37px; float:right; clear:both;}
+.skefu .feed_pp{ background-position:right -60px; border:1px solid #ddd; cursor:pointer; width:39px; height:37px; float:right; margin:0 0 1px 0; clear:both;}
+.Followus{padding:0 0 8px 0;text-align:center;border-top:1px solid #ddd; }.email{word-break: break-all;}
+.Followus img{ margin:0 1px; display:inline}.Followus span{ display:block; height:20px; clear:both;padding-top:4px; text-align:left; text-indent:12px;color:#333;}
+.in_os .osqq p span a{color:#557917;}
+  </style>
+  <div class="in_os">
+   <div class="os_x">
+   </div>
+   <div class="osqq">
+    <ul class="acc">
+     <li>
+      <img src="/images/Common3/whatapp5.png"/>
+      8618137379019
+     </li>
+     <li class="email">
+      <a href="mailto:sales@jianhuissteel.com">
+       <img alt="email" src="/images/Common3/eico5.png"/>
+       sales@jianhuissteel.com
+      </a>
+     </li>
+    </ul>
+    <div class="Followus">
+     <span>
+      Follow us :
+     </span>
+     <a href="https://www.facebook.com/wendy.liu.3154" target="_blank">
+      <img alt="facebook" src="/images/Common3/fico5.png"/>
+     </a>
+     <a href="#" target="_blank">
+      <img alt="Twitter" src="/images/Common3/tico5.png"/>
+     </a>
+     <a href="https://www.linkedin.com/in/connie-liu-78b5b8106/" target="_blank">
+      <img alt="Linkedin" src="/images/Common3/lico5.png"/>
+     </a>
+     <a href="#" target="_blank">
+      <img alt="Pinterest" src="/images/Common3/pico5.png"/>
+     </a>
+     <a href="#" target="_blank">
+      <img alt="GooglePlus" src="/images/Common3/gico5.png"/>
+     </a>
+    </div>
+    <div class="acbox">
+     <a class="feed_pp" href="javascript:void(0);" onclick="Inquirysend.feed();">
+     </a>
+     <a class="ico_gtop">
+     </a>
+    </div>
+   </div>
+  </div>
+  <div class="skefu">
+   <p class="ico_os">
+   </p>
+   <a class="feed_pp" href="javascript:void(0);" onclick="Inquirysend.feed();">
+   </a>
+   <a class="ico_gtop">
+   </a>
+  </div>
+  <script>
+   $('<div class="tcont"><p>E-mail：<a href="mailto:sales@jianhuissteel.com">sales@jianhuissteel.com</a></p><p>whatsapp：<a href="https://api.whatsapp.com/send?phone=8618137379019" target="_blank">+86 18137379019 </a></p></div>').appendTo($('header nav'));
+  </script>
+  <script language="javascript" src="https://plt.zoosnet.net/JS/LsJS.aspx?siteid=PLT72399808&amp;float=1&amp;lng=en">
+  </script>
+  <link href="https://plt.zoosnet.net/js/JS5.css" rel="stylesheet" type="text/css"/>
+  <div id="LRdiv0" style="display: none;">
+  </div>
+  <div id="LRdiv1" style="display: none;">
+  </div>
+  <div id="LRdiv2" style="display: none;">
+   <div id="LRfloater2" style="z-index: 2147483647; right: 0px; bottom: 0px; position: fixed !important;">
+    <div id="LRMINIWIN" style="width:420px; height:463px;">
+     <div id="LRMINIWIN0" style="z-index: 2147483647; position: absolute; height: 30px; overflow: hidden; display: block;right:0">
+      <span style="float:left;clear:none; width:103px;height:20px; overflow:hidden; margin:0 5px;">
+      </span>
+      <span onclick="lr_closemini(1);" style="CURSOR:pointer;float:right;clear:none; width:20px;height:20px; margin:6px 2px 0 0; overflow:hidden;">
+       <img border="0" src="https://plt.zoosnet.net/lr/mini_new/close.png" style="cursor:pointer;"/>
+      </span>
+      <span onclick="lrminiMin();" style="CURSOR:pointer;float:right;overflow:hidden;width:20px;height:20px;clear:none;display:block;margin:6px 2px 0 0;">
+       <img border="0" src="https://plt.zoosnet.net/lr/mini_new/da1.png" style="cursor:pointer;"/>
+      </span>
+      <span onclick="openZoosUrl('bchatwin');lrminiMin();" style="CURSOR:pointer;float:right;overflow:hidden;width:20px;height:20px;clear:none;display:block;margin:6px 2px 0 0;">
+       <img border="0" src="https://plt.zoosnet.net/lr/mini_new/da.png" style="cursor:pointer;"/>
+      </span>
+      <span onclick="lrmove();" style="CURSOR:pointer;float:right;overflow:hidden;width:20px;height:20px;clear:none;display:block;margin:6px 2px 0 0;">
+       <img border="0" src="https://plt.zoosnet.net/lr/mini_new/jiantou.png" style="cursor:pointer;"/>
+      </span>
+     </div>
+     <iframe allowtransparency="true" frameborder="0" height="463px" id="LR_miniframe" name="LR_miniframe" scrolling="No" src="about:blank" width="100%">
+     </iframe>
+    </div>
+   </div>
+  </div>
+  <div id="LRdiv3" style="display: none;">
+   <div id="LRfloater3" style="z-index: 2147483647; right: 0px; bottom: 0px; position: fixed !important;">
+    <div class="LR_Mini_ICON" id="LRMINIBar" onclick="lrminiMax();" style="display:none;right: 15px;bottom: 30px;">
+     <a class="LR-BTN" style="background-color: #5ba4ed;">
+      <span class="LR-ICON LR-ICON-CHAT1" id="LR-BTN-ICON">
+      </span>
+      <span id="LR-CIRCLE" style="display:none;background-color: #5ba4ed;">
+      </span>
+     </a>
+     <div id="LR-BUBBLE" style="display:none;width:400px;right: 0;margin-right:34px;cursor:pointer;bottom: 30px;">
+      <span class="LR-ICON" id="LR-BUBBLE-CLOSE" onclick="return closebarhtml(event);">
+      </span>
+      <div id="LR-BUBBLE-INSIDE">
+       <div id="LR-BUBBLE-title">
+        <img id="LR-BUBBLE-AVATAR" src=""/>
+        <span id="LR-BUBBLE-NAME">
+        </span>
+       </div>
+       <div id="LR-BUBBLE-MSG">
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>
